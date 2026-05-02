@@ -1,0 +1,317 @@
+{
+  "id": "quiz-biology1-reptilien-komplett-001",
+  "title": "Reptilien und Schlangen Komplett",
+  "description": "Ein umfassendes Quiz über Reptilien: Merkmale, Schlangen in Österreich, Jagdmethoden, Sinne und Thermoregulation",
+  "difficulty": "medium",
+  "category": "biology1",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "standard",
+      "question": "Warum werden Reptilien auch Kriechtiere genannt?",
+      "options": [
+        {
+          "text": "Weil sie nur nachts aktiv sind"
+        },
+        {
+          "text": "Weil sie in Höhlen leben"
+        },
+        {
+          "text": "Weil sie am Boden kriechen"
+        },
+        {
+          "text": "Weil sie sehr langsam sind"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Reptilien sind wechselwarm und ihre Körpertemperatur wechselt mit der Außentemperatur.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q3",
+      "type": "standard",
+      "question": "Womit ist der Körper von Reptilien bedeckt?",
+      "options": [
+        {
+          "text": "Mit Fell"
+        },
+        {
+          "text": "Mit Federn"
+        },
+        {
+          "text": "Mit trockenen Schuppen und Schilden aus Horn"
+        },
+        {
+          "text": "Mit nackter Haut"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q4",
+      "type": "standard",
+      "question": "Warum müssen sich Schlangen häuten?",
+      "options": [
+        {
+          "text": "Weil die Schuppenhaut nicht mitwachsen kann"
+        },
+        {
+          "text": "Um ihre Farbe zu ändern"
+        },
+        {
+          "text": "Um Parasiten loszuwerden"
+        },
+        {
+          "text": "Um sich zu tarnen"
+        }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Schlangen haben einen sehr guten Hörsinn.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q6",
+      "type": "standard",
+      "question": "Woran erkennt man die Ringelnatter am leichtesten?",
+      "options": [
+        {
+          "text": "An ihrem langen Schwanz"
+        },
+        {
+          "text": "An ihrer grünen Farbe"
+        },
+        {
+          "text": "An den gelben Halbmonden hinter dem Kopf"
+        },
+        {
+          "text": "An ihren großen Augen"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Die Ringelnatter ist eine Giftschlange.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q8",
+      "type": "standard",
+      "question": "Woran erkennt man die Kreuzotter?",
+      "options": [
+        {
+          "text": "An gelben Halbmonden"
+        },
+        {
+          "text": "An ihrer blauen Farbe"
+        },
+        {
+          "text": "An einem Zickzackband auf ihrem Rücken"
+        },
+        {
+          "text": "An ihren langen Giftzähnen"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "question": "Ein Biss der Kreuzotter ist für Menschen tödlich.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q10",
+      "type": "standard",
+      "question": "Wie pflanzt sich die Kreuzotter fort?",
+      "options": [
+        {
+          "text": "Sie legt Eier in einen Komposthaufen"
+        },
+        {
+          "text": "Sie legt Eier im Wasser ab"
+        },
+        {
+          "text": "Sie behält die Eier im Körper und die Jungen schlüpfen erst im Herbst"
+        },
+        {
+          "text": "Sie legt Eier unter Steinen ab"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q11",
+      "type": "standard",
+      "question": "Wie töten Nattern ihre Beute?",
+      "options": [
+        {
+          "text": "Mit Gift"
+        },
+        {
+          "text": "Mit ihren scharfen Zähnen"
+        },
+        {
+          "text": "Sie umschlingen größere Tiere und ersticken sie"
+        },
+        {
+          "text": "Sie töten ihre Beute nicht"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "question": "Ottern haben Giftzähne, mit denen sie ihre Beute töten.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q13",
+      "type": "standard",
+      "question": "Warum müssen Schlangen ihre Beute im Ganzen verschlingen?",
+      "options": [
+        {
+          "text": "Weil sie faul sind"
+        },
+        {
+          "text": "Weil sie keine Backenzähne zum Kauen haben"
+        },
+        {
+          "text": "Weil sie keine Zeit haben"
+        },
+        {
+          "text": "Weil das ihre Tradition ist"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q14",
+      "type": "standard",
+      "question": "Wie viele heimische Schlangenarten gibt es in Österreich?",
+      "options": [
+        {
+          "text": "Drei"
+        },
+        {
+          "text": "Sechs"
+        },
+        {
+          "text": "Zehn"
+        },
+        {
+          "text": "Zwölf"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "question": "Alle sechs heimischen Schlangenarten in Österreich stehen unter strengem Naturschutz.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q16",
+      "type": "standard",
+      "question": "Wie nehmen Schlangen Gerüche wahr?",
+      "options": [
+        {
+          "text": "Mit der Nase"
+        },
+        {
+          "text": "Mit den Augen"
+        },
+        {
+          "text": "Mit der gespaltenen Zunge und einem Geruchsorgan am Gaumen"
+        },
+        {
+          "text": "Mit den Ohren"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q17",
+      "type": "standard",
+      "question": "Bei welcher Körpertemperatur fühlen sich Schlangen am wohlsten?",
+      "options": [
+        {
+          "text": "5 bis 10 °C"
+        },
+        {
+          "text": "10 bis 15 °C"
+        },
+        {
+          "text": "20 bis 30 °C"
+        },
+        {
+          "text": "35 bis 40 °C"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q18",
+      "type": "true-false",
+      "question": "Die schwarze Kreuzotter kann sich schneller aufwärmen als andere Farbvarianten.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q19",
+      "type": "true-false",
+      "question": "Schlangen können wochenlang ohne Nahrung auskommen.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q20",
+      "type": "standard",
+      "question": "Wie können Schlangen so große Beute verschlingen?",
+      "options": [
+        {
+          "text": "Sie haben einen sehr großen Mund"
+        },
+        {
+          "text": "Die Kieferknochen sind nur mit elastischen Bändern verbunden"
+        },
+        {
+          "text": "Sie können ihren Hals dehnen"
+        },
+        {
+          "text": "Sie haben keine Knochen"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    }
+  ]
+}

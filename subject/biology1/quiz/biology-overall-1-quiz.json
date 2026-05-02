@@ -1,0 +1,331 @@
+{
+  "id": "quiz-biology1-overall-001",
+  "title": "Biologie Gesamt - Teil 1",
+  "description": "Umfassendes Quiz zu allen Themen: Vögel, Reptilien, Schlangen, Geweih und Hörner",
+  "difficulty": "medium",
+  "category": "biology1",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "standard",
+      "question": "Warum haben Vögel hohle Knochen?",
+      "options": [
+        { "text": "Um besser hören zu können" },
+        { "text": "Um leichter zu sein und fliegen zu können" },
+        { "text": "Um mehr Knochenmark zu haben" },
+        { "text": "Um besser schwimmen zu können" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Vögel geben ihren Kot regelmäßig ab, um Gewicht zu sparen.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q3",
+      "type": "standard",
+      "question": "Was ist die Besonderheit des Atmungssystems bei Vögeln?",
+      "options": [
+        {
+          "text": "Sie nehmen bei jedem Atemzug doppelt Sauerstoff auf (Einatmen und Ausatmen)"
+        },
+        { "text": "Sie können unter Wasser atmen" },
+        { "text": "Sie atmen nur durch den Schnabel" },
+        { "text": "Sie müssen nicht atmen beim Fliegen" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "question": "Reptilien sind gleichwarm wie Säugetiere.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q5",
+      "type": "standard",
+      "question": "Was bedeckt den Körper von Reptilien?",
+      "options": [
+        { "text": "Fell" },
+        { "text": "Federn" },
+        { "text": "Schuppen und Schilder aus Horn" },
+        { "text": "Glatte Haut" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q6",
+      "type": "standard",
+      "question": "Welchen besonderen Sinn haben Schlangen, obwohl sie fast taub sind?",
+      "options": [
+        { "text": "Einen Erschütterungssinn" },
+        { "text": "Einen Magnetsinn" },
+        { "text": "Einen Elektrosinn" },
+        { "text": "Einen Ultraschallsinn" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Eidechsen sind keine Wirbeltiere.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q8",
+      "type": "standard",
+      "question": "Was ist der Hauptunterschied zwischen einem Geweih und einem Horn?",
+      "options": [
+        { "text": "Geweih ist aus Fell, Horn aus Haut" },
+        { "text": "Geweih ist lebender Knochen, Horn ist totes Hornmaterial" },
+        { "text": "Es gibt keinen Unterschied" },
+        { "text": "Geweih ist hohl, Horn ist massiv" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "question": "Hörner werden jedes Jahr abgeworfen und wachsen neu.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q10",
+      "type": "standard",
+      "question": "Wie viele heimische Schlangenarten gibt es in Österreich?",
+      "options": [
+        { "text": "10" },
+        { "text": "6" },
+        { "text": "3" },
+        { "text": "15" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q11",
+      "type": "standard",
+      "question": "Woran erkennt man eine Ringelnatter?",
+      "options": [
+        { "text": "An den blauen Flecken am Bauch" },
+        { "text": "An den gelben \"Halbmonden\" hinter dem Kopf" },
+        { "text": "An den roten Streifen auf dem Rücken" },
+        { "text": "An der gespaltenen Schwanzspitze" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "question": "Die Kreuzotter ist eine ungiftige Schlange.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q13",
+      "type": "standard",
+      "question": "Warum müssen Schlangen ihre Beute im Ganzen verschlingen?",
+      "options": [
+        { "text": "Weil die Beute sonst wegläuft" },
+        { "text": "Weil sie keine Zeit zum Kauen haben" },
+        { "text": "Weil sie keinen Magen haben" },
+        { "text": "Weil sie keine Backenzähne zum Kauen haben" }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 30
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "question": "Schlangen können wochenlang ohne Nahrung auskommen.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q15",
+      "type": "standard",
+      "question": "Wie nehmen Schlangen Gerüche wahr?",
+      "options": [
+        { "text": "Sie können nicht riechen" },
+        {
+          "text": "Mit der gespaltenen Zunge und einem Geruchsorgan am Gaumen"
+        },
+        { "text": "Durch ihre Nase wie Menschen" },
+        { "text": "Durch ihre Schuppen" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q16",
+      "type": "true-false",
+      "question": "Schwarze Kreuzottern kommen vor allem in höheren Gebieten vor, weil sie sich schneller aufwärmen können.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q17",
+      "type": "standard",
+      "question": "Was ist die Kloake bei Vögeln?",
+      "options": [
+        { "text": "Eine Öffnung für Kot, Eier und Fortpflanzung" },
+        { "text": "Ein Teil des Schnabels" },
+        { "text": "Ein Muskel zum Fliegen" },
+        { "text": "Eine Art Luftsack" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q18",
+      "type": "true-false",
+      "question": "Vögel haben Zähne zum Kauen ihrer Nahrung.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q19",
+      "type": "standard",
+      "question": "Wie lange dauert die Brutzeit bei Hühnern?",
+      "options": [
+        { "text": "30 Tage" },
+        { "text": "7 Tage" },
+        { "text": "21 Tage" },
+        { "text": "14 Tage" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q20",
+      "type": "standard",
+      "question": "Was bedeutet es, dass Küken \"Nestflüchter\" sind?",
+      "options": [
+        { "text": "Sie können nach kurzer Zeit laufen und Futter suchen" },
+        { "text": "Sie verlassen sofort das Nest und leben allein" },
+        { "text": "Sie bleiben lange hilflos im Nest" },
+        { "text": "Sie können sofort fliegen" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q21",
+      "type": "true-false",
+      "question": "Die Befruchtung der Eizelle muss erfolgen, bevor sie ihre Hüllen (Eiklar und Schale) erhält.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q22",
+      "type": "standard",
+      "question": "Welches Tier hat das größte Geweih?",
+      "options": [
+        { "text": "Der Steinbock" },
+        { "text": "Das Rentier" },
+        { "text": "Der Elch" },
+        { "text": "Der Rothirsch" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q23",
+      "type": "true-false",
+      "question": "Bei den meisten Tieren mit Geweih haben sowohl Männchen als auch Weibchen ein Geweih.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q24",
+      "type": "standard",
+      "question": "Warum legen Hennen am Bauernhof kontinuierlich Eier, obwohl sie schon viele gelegt haben?",
+      "options": [
+        { "text": "Weil sie zu viel fressen" },
+        { "text": "Weil man ihnen die Eier wegnimmt" },
+        { "text": "Weil sie genetisch verändert sind" },
+        { "text": "Weil sie keine Glucke sind" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q25",
+      "type": "true-false",
+      "question": "Hörner sind innen hohl und wurden früher als Trinkgefäße verwendet.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q26",
+      "type": "standard",
+      "question": "Welche Schlangenarten in Österreich sind giftig?",
+      "options": [
+        { "text": "Kreuzotter und Hornotter" },
+        { "text": "Ringelnatter und Äskulapnatter" },
+        { "text": "Alle heimischen Schlangen sind giftig" },
+        { "text": "Würfelnatter und Schlingnatter" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q27",
+      "type": "standard",
+      "question": "Wo lebt die Ringelnatter bevorzugt?",
+      "options": [
+        { "text": "Im Gebirge und in Hochmooren" },
+        { "text": "In Wüsten" },
+        { "text": "In feuchten Lebensräumen an Bächen und Seen" },
+        { "text": "Nur in Wäldern" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q28",
+      "type": "true-false",
+      "question": "Schlangen haben über beiden Augen jeweils eine durchsichtige Schuppe und können daher nicht blinzeln.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q29",
+      "type": "standard",
+      "question": "Was fressen Ringelnattern hauptsächlich?",
+      "options": [
+        { "text": "Früchte und Beeren" },
+        { "text": "Frösche, Fische und Kaulquappen" },
+        { "text": "Nur Insekten" },
+        { "text": "Gräser und Pflanzen" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q30",
+      "type": "standard",
+      "question": "Was ist das auffallendste Erkennungszeichen der Kreuzotter?",
+      "options": [
+        { "text": "Die grüne Färbung" },
+        { "text": "Die gelben Halbmonde am Kopf" },
+        { "text": "Das Zickzackband auf ihrem Rücken" },
+        { "text": "Die blauen Flecken" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 ---
-description: "Use when generating, editing, or validating quiz JSON files for the superkahoot project. Enforces the Quiz/Question schema (standard, true-false, and essay questions), correct-answer shuffling, and Markdown code formatting inside question text. ALWAYS include essay questions where students explain concepts."
+description: "Use when generating, editing, or validating quiz JSON files for the superkahoot project. Enforces the Quiz/Question schema (standard and true-false questions ONLY), correct-answer shuffling, and Markdown code formatting inside question text. Essay questions belong in Markdown question files, NOT in quiz JSON."
 applyTo: "**/*.json"
 ---
 
@@ -60,23 +60,9 @@ All quiz JSON files must conform to the following TypeScript interfaces.
 
 - `correctAnswer` — JSON boolean (`true` or `false`, no quotes)
 
-### Essay question (open-ended)
-
-```json
-{
-  "id": "string",
-  "type": "essay",
-  "question": "string",
-  "sampleAnswer": "string (optional)",
-  "timeLimit": 60
-}
-```
-
-- `question` — the open-ended question that requires a written answer
-- `sampleAnswer` — optional example or model answer (for teacher reference)
-- `timeLimit` — typically longer (60+ seconds) for essay questions
-
 ## Rules
+
+**IMPORTANT**: The quiz JSON format supports ONLY `standard` and `true-false` question types. Essay questions (open-ended questions where students explain concepts) should be included in Markdown question files (`.md` format in the `questions/` folder), NOT in quiz JSON files.
 
 ### 1. Valid JSON — double-quote everything
 
@@ -136,30 +122,11 @@ For UML class diagrams, use the `plantuml` language tag:
 
 Do not add fields not present in the schema. Only include optional fields (`image`, `timeLimit`, `description`, etc.) when they carry meaningful content.
 
-### 6. Mix question types — include essay questions
+### 6. Question type distribution
 
-When generating quizzes, include a variety of question types:
+When generating quizzes for the JSON format, use only the two supported question types:
 
-- **Standard (multiple-choice)**: For factual knowledge and comprehension
-- **True/False**: For quick concept verification
-- **Essay (open-ended)**: For deeper understanding and explanation
+- **Standard (multiple-choice)**: For factual knowledge and comprehension (60-80% of questions)
+- **True/False**: For quick concept verification (20-40% of questions)
 
-**Essay questions are mandatory in every quiz.** Include 2-3 essay questions that ask students to:
-
-- Explain concepts in their own words
-- Describe processes or mechanisms
-- Compare and contrast topics
-- Analyze special features or adaptations
-
-**Example essay question prompts:**
-
-- "Erkläre, was speziell an ... ist"
-- "Beschreibe, wie ... funktioniert"
-- "Was sind die wichtigsten Unterschiede zwischen ... und ...?"
-- "Erkläre, warum ... eine besondere Anpassung ist"
-
-**Distribution guideline:** For a quiz with 7-10 questions:
-
-- 60-70% standard multiple-choice questions
-- 10-20% true/false questions
-- 20-30% essay questions (at least 2)
+**Note**: Essay questions (open-ended questions for deeper understanding) should be included in Markdown question files (`.md` format), not in quiz JSON files. See the main instruction file for details on creating Markdown question files with essay questions.

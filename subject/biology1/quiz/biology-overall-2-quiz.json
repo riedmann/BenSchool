@@ -1,0 +1,349 @@
+{
+  "id": "quiz-biology1-overall-002",
+  "title": "Biologie Gesamt - Teil 2",
+  "description": "Weitere umfassende Fragen zu allen Themen: Vögel, Reptilien, Schlangen, Geweih und Hörner",
+  "difficulty": "medium",
+  "category": "biology1",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "standard",
+      "question": "Welche Funktion haben die Luftsäcke bei Vögeln?",
+      "options": [
+        { "text": "Sie dienen zur Verdauung" },
+        {
+          "text": "Sie ermöglichen kontinuierliche Sauerstoffaufnahme beim Ein- und Ausatmen"
+        },
+        { "text": "Sie speichern Wasser" },
+        { "text": "Sie helfen beim Schwimmen" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Hühnervögel sind wahre Flugkünstler.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q3",
+      "type": "standard",
+      "question": "Was passiert beim Abwärtsschlag der Vogelflügel?",
+      "options": [
+        { "text": "Der Vogel bewegt sich nach unten" },
+        { "text": "Der Vogel ruht sich aus" },
+        {
+          "text": "Die Luft wird nach unten gedrückt und der Vogel bewegt sich nach oben"
+        },
+        { "text": "Die Flügel werden angewinkelt" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q4",
+      "type": "standard",
+      "question": "Warum brauchen Vögel fettreiche Nahrung?",
+      "options": [
+        { "text": "Um schwerer zu werden" },
+        { "text": "Um Energie für das energieintensive Fliegen zu haben" },
+        { "text": "Um im Winter warm zu bleiben" },
+        { "text": "Um besser schwimmen zu können" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Reptilien gehören zur biologischen Klasse der Kriechtiere.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q6",
+      "type": "standard",
+      "question": "Warum können Schlangen nicht blinzeln?",
+      "options": [
+        { "text": "Weil sie blind sind" },
+        { "text": "Weil sie keine Augenlider haben" },
+        {
+          "text": "Weil sie über beiden Augen jeweils eine durchsichtige Schuppe haben"
+        },
+        { "text": "Weil sie unter Wasser leben" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Zu den Reptilien zählen neben Schlangen und Eidechsen auch Schildkröten und Krokodile.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q8",
+      "type": "standard",
+      "question": "Was ist der Kropf bei Vögeln?",
+      "options": [
+        { "text": "Ein Flugorgan" },
+        { "text": "Ein Atmungsorgan" },
+        {
+          "text": "Ein vergrößerter Teil der Speiseröhre zum Anfeuchten der Nahrung"
+        },
+        { "text": "Ein Fortpflanzungsorgan" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q9",
+      "type": "standard",
+      "question": "Was macht der Muskelmagen bei Vögeln?",
+      "options": [
+        { "text": "Er hilft beim Fliegen" },
+        { "text": "Er produziert Eier" },
+        { "text": "Er speichert Wasser" },
+        {
+          "text": "Er zerreibt und zerkleinert die Nahrung mit absichtlich verschluckten Steinen"
+        }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 30
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Bei der Paarung von Hühnern springt der Hahn auf die Henne und berührt mit seiner Kloake ihre Kloake.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q11",
+      "type": "standard",
+      "question": "In welcher Reihenfolge entstehen die Teile eines Hühnereis?",
+      "options": [
+        { "text": "Eidotter, Eiklar, Kalkschale" },
+        { "text": "Kalkschale, Eidotter, Eiklar" },
+        { "text": "Eiklar, Kalkschale, Eidotter" },
+        { "text": "Kalkschale, Eiklar, Eidotter" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q12",
+      "type": "standard",
+      "question": "Was ist die Hagelschnur im Hühnerei?",
+      "options": [
+        { "text": "Die Keimscheibe" },
+        { "text": "Ein Teil der Kalkschale" },
+        { "text": "Eine Struktur, die den Dotter in der Mitte hält" },
+        { "text": "Ein Atmungsorgan" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "question": "Nur befruchtete Eier können sich zu Küken entwickeln.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q14",
+      "type": "standard",
+      "question": "Warum legt die Ringelnatter ihre Eier in Komposthaufen?",
+      "options": [
+        { "text": "Um sie durch die Verrottungswärme zu wärmen" },
+        { "text": "Um sie vor Licht zu schützen" },
+        { "text": "Weil dort viel Nahrung ist" },
+        { "text": "Um sie besser verstecken zu können" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "question": "Die Kreuzotter legt ihre Eier wie die Ringelnatter ab.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q16",
+      "type": "standard",
+      "question": "Wie viele Junge bekommt eine Kreuzotter normalerweise?",
+      "options": [
+        { "text": "Über 50 Junge" },
+        { "text": "1-3 Junge" },
+        { "text": "5-15 Junge" },
+        { "text": "30-40 Junge" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q17",
+      "type": "standard",
+      "question": "Wie töten Nattern ihre Beute?",
+      "options": [
+        { "text": "Sie umschlingen größere Tiere und lassen sie ersticken" },
+        { "text": "Mit Gift" },
+        { "text": "Mit ihren scharfen Zähnen" },
+        { "text": "Sie fressen nur tote Tiere" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q18",
+      "type": "true-false",
+      "question": "Ottern warten, bis ihre vergiftete Beute stirbt, und suchen sie dann mit ihrem Geruchssinn.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q19",
+      "type": "standard",
+      "question": "Warum können Schlangen ihr Maul so weit öffnen?",
+      "options": [
+        { "text": "Weil sie sehr kleine Köpfe haben" },
+        {
+          "text": "Weil die Kieferknochen nur mit elastischen Bändern verbunden sind"
+        },
+        { "text": "Weil sie keine Knochen haben" },
+        { "text": "Weil sie magische Kräfte haben" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q20",
+      "type": "standard",
+      "question": "Was ist eine Besonderheit von Geweihen im Vergleich zu Hörnern bezüglich des Alters?",
+      "options": [
+        { "text": "Geweihe werden mit dem Alter kleiner" },
+        { "text": "Nur junge Tiere haben Geweihe" },
+        {
+          "text": "Geweihe älterer Tiere sind verzweigter als die jüngerer Tiere"
+        },
+        { "text": "Geweihe ändern sich nicht mit dem Alter" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q21",
+      "type": "true-false",
+      "question": "Hörner können geschnitten werden, ohne dass das Tier verletzt wird, solange man den Knochenzapfen nicht verletzt.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q22",
+      "type": "standard",
+      "question": "Was bedeutet \"Verfegen\" beim Geweih?",
+      "options": [
+        { "text": "Das Putzen des Geweihs" },
+        {
+          "text": "Das Abreiben der Basthaut am ausgewachsenen Geweih an Baumstämmen"
+        },
+        { "text": "Das Abwerfen des alten Geweihs" },
+        { "text": "Das Wachsen des neuen Geweihs" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q23",
+      "type": "true-false",
+      "question": "Ein Geweih kann pro Tag etwa 2,5 cm wachsen.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q24",
+      "type": "standard",
+      "question": "Welche Aussage über Schlangen in Österreich ist korrekt?",
+      "options": [
+        { "text": "Sie dürfen gejagt werden" },
+        { "text": "Es gibt über 20 verschiedene Arten" },
+        { "text": "Sie stehen alle unter strengem Naturschutz" },
+        { "text": "Sie sind sehr häufig und greifen Menschen an" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q25",
+      "type": "standard",
+      "question": "Bei welcher Temperatur fühlen sich Schlangen am wohlsten?",
+      "options": [
+        { "text": "35-45°C" },
+        { "text": "20-30°C" },
+        { "text": "5-10°C" },
+        { "text": "10-15°C" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q26",
+      "type": "true-false",
+      "question": "Schlangen sind Wirbeltiere, obwohl sie keine Gliedmaßen haben.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q27",
+      "type": "standard",
+      "question": "Was geschieht beim Aufwärtsschlag der Vogelflügel?",
+      "options": [
+        { "text": "Der Vogel winkelt die Flügel an und zieht sie nach oben" },
+        { "text": "Der Vogel bewegt sich nach unten" },
+        { "text": "Die Luft wird nach oben gedrückt" },
+        { "text": "Der Vogel stoppt in der Luft" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q28",
+      "type": "true-false",
+      "question": "Hörner sind nie verzweigt.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q29",
+      "type": "standard",
+      "question": "Wo befinden sich die Ohren bei Vögeln?",
+      "options": [
+        { "text": "Auf dem Kopf" },
+        { "text": "Am Schnabel" },
+        { "text": "Hinter den Augen, von kleinen Federn bedeckt" },
+        { "text": "Am Hals" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q30",
+      "type": "standard",
+      "question": "Wie viele Eier legt eine Ringelnatter normalerweise?",
+      "options": [
+        { "text": "1-5 Eier" },
+        { "text": "50-100 Eier" },
+        { "text": "10-40 Eier" },
+        { "text": "Über 100 Eier" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    }
+  ]
+}

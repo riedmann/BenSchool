@@ -1,0 +1,345 @@
+{
+  "id": "quiz-biology1-voegel-komplett-001",
+  "title": "Vögel Komplett - Anatomie, Flug und Fortpflanzung",
+  "description": "Ein umfassendes Quiz über Vögel: Körperbau, Flugmechanismus, Anpassungen und Fortpflanzung",
+  "difficulty": "medium",
+  "category": "biology1",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "standard",
+      "question": "Wie heißt das männliche Huhn?",
+      "options": [
+        {
+          "text": "Hahn"
+        },
+        {
+          "text": "Henne"
+        },
+        {
+          "text": "Küken"
+        },
+        {
+          "text": "Spatz"
+        }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 20
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Alle Vögel haben Federn am ganzen Körper.",
+      "correctAnswer": true,
+      "timeLimit": 15
+    },
+    {
+      "id": "q3",
+      "type": "standard",
+      "question": "Woraus besteht der Schnabel der Vögel?",
+      "options": [
+        {
+          "text": "Aus Knochen"
+        },
+        {
+          "text": "Aus Horn"
+        },
+        {
+          "text": "Aus Knorpel"
+        },
+        {
+          "text": "Aus Haut"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q4",
+      "type": "standard",
+      "question": "Was ist der Kropf?",
+      "options": [
+        {
+          "text": "Ein Teil des Gehirns"
+        },
+        {
+          "text": "Ein vergrößerter Teil der Speiseröhre"
+        },
+        {
+          "text": "Ein Muskel im Flügel"
+        },
+        {
+          "text": "Eine Art Feder"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Hühner haben Zähne und können kauen.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q6",
+      "type": "standard",
+      "question": "Warum können Hühnervögel nicht sehr gut fliegen?",
+      "options": [
+        {
+          "text": "Sie haben keine Federn"
+        },
+        {
+          "text": "Sie haben zu kleine Flügel"
+        },
+        {
+          "text": "Sie haben einen großen Körper und relativ kurze Flügel"
+        },
+        {
+          "text": "Sie haben keine Muskeln"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Vögel haben schwerere Knochen als Säugetiere.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q8",
+      "type": "standard",
+      "question": "Was ist der Hauptunterschied zwischen Vogel- und Säugetierknochen?",
+      "options": [
+        {
+          "text": "Vogelknochen sind länger"
+        },
+        {
+          "text": "Säugetierknochen sind gefüllt mit Knochenmark, Vogelknochen enthalten Luftkammern"
+        },
+        {
+          "text": "Vogelknochen sind grün"
+        },
+        {
+          "text": "Säugetierknochen sind weicher"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q9",
+      "type": "standard",
+      "question": "Warum geben Vögel ihren Kot regelmäßig ab?",
+      "options": [
+        {
+          "text": "Um andere Vögel anzulocken"
+        },
+        {
+          "text": "Um ihr Gefieder zu reinigen"
+        },
+        {
+          "text": "Um Gewicht zu sparen und leichter zu sein"
+        },
+        {
+          "text": "Um ihr Nest zu markieren"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q10",
+      "type": "standard",
+      "question": "Was passiert beim Abwärtsschlag der Flügel?",
+      "options": [
+        {
+          "text": "Der Vogel bewegt sich nach unten"
+        },
+        {
+          "text": "Die Luft wird nach unten gedrückt und der Vogel bewegt sich nach oben"
+        },
+        {
+          "text": "Der Vogel landet"
+        },
+        {
+          "text": "Der Vogel ruht sich aus"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q11",
+      "type": "true-false",
+      "question": "Die Lunge der Vögel ist so gebaut, dass sie ständig Sauerstoff aus der Luft aufnimmt.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q12",
+      "type": "standard",
+      "question": "Welche besondere Struktur haben Vögel in ihren hohlen Knochen?",
+      "options": [
+        {
+          "text": "Muskeln"
+        },
+        {
+          "text": "Blutgefäße"
+        },
+        {
+          "text": "Luftsäcke"
+        },
+        {
+          "text": "Federn"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q13",
+      "type": "standard",
+      "question": "Wie wird das Ei der Henne befruchtet?",
+      "options": [
+        {
+          "text": "Automatisch im Körper der Henne"
+        },
+        {
+          "text": "Durch das Futter"
+        },
+        {
+          "text": "Der Hahn berührt mit seiner Kloake die Kloake der Henne"
+        },
+        {
+          "text": "Durch Wärme"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q14",
+      "type": "true-false",
+      "question": "Unbefruchtete Eier können sich zu Küken entwickeln.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q15",
+      "type": "standard",
+      "question": "In welcher Reihenfolge entsteht das Hühnerei?",
+      "options": [
+        {
+          "text": "Eizelle → Eidotter → Eiklar → Schalenhaut → Kalkschale"
+        },
+        {
+          "text": "Eiklar → Eidotter → Kalkschale"
+        },
+        {
+          "text": "Kalkschale → Eiklar → Eidotter"
+        },
+        {
+          "text": "Eidotter → Kalkschale → Eiklar"
+        }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q16",
+      "type": "standard",
+      "question": "Wie lange brütet eine Henne, bis die Küken schlüpfen?",
+      "options": [
+        {
+          "text": "7 Tage"
+        },
+        {
+          "text": "14 Tage"
+        },
+        {
+          "text": "21 Tage"
+        },
+        {
+          "text": "30 Tage"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q17",
+      "type": "true-false",
+      "question": "Küken sind Nesthocker und müssen längere Zeit im Nest gefüttert werden.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q18",
+      "type": "standard",
+      "question": "Warum legen Hennen am Bauernhof immer weiter Eier?",
+      "options": [
+        {
+          "text": "Weil sie krank sind"
+        },
+        {
+          "text": "Weil man ihnen die Eier wegnimmt"
+        },
+        {
+          "text": "Weil sie zu viel fressen"
+        },
+        {
+          "text": "Weil der Hahn sie dazu zwingt"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q19",
+      "type": "standard",
+      "question": "Wo befinden sich die Ohren der Vögel?",
+      "options": [
+        {
+          "text": "Auf dem Kopf"
+        },
+        {
+          "text": "Am Schnabel"
+        },
+        {
+          "text": "Hinter den Augen, von Federn bedeckt"
+        },
+        {
+          "text": "Vögel haben keine Ohren"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q20",
+      "type": "standard",
+      "question": "Welche Funktion hat die Keimscheibe im Ei?",
+      "options": [
+        {
+          "text": "Sie schützt das Ei"
+        },
+        {
+          "text": "Aus ihr entwickelt sich das Küken"
+        },
+        {
+          "text": "Sie hält den Dotter in der Mitte"
+        },
+        {
+          "text": "Sie gibt dem Ei seine Form"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    }
+  ]
+}
