@@ -1,0 +1,128 @@
+{
+  "id": "quiz-biology1-reptilien-001",
+  "title": "Reptilien in Österreich Quiz",
+  "description": "Ein Quiz über die Ringelnatter und Kreuzotter - zwei Schlangenarten in Österreich",
+  "difficulty": "medium",
+  "category": "biology1",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "standard",
+      "question": "Woran erkennt man die Ringelnatter am leichtesten?",
+      "options": [
+        {
+          "text": "An ihrem langen Schwanz"
+        },
+        {
+          "text": "An den gelben Halbmonden hinter dem Kopf"
+        },
+        {
+          "text": "An ihrer grünen Farbe"
+        },
+        {
+          "text": "An ihren großen Augen"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Die Ringelnatter ist eine Giftschlange.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q3",
+      "type": "standard",
+      "question": "Wo lebt die Ringelnatter vor allem?",
+      "options": [
+        {
+          "text": "In der Wüste"
+        },
+        {
+          "text": "In Höhlen"
+        },
+        {
+          "text": "In feuchten Lebensräumen, an Bächen und Seen"
+        },
+        {
+          "text": "Nur im Gebirge"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q4",
+      "type": "standard",
+      "question": "Woran erkennt man die Kreuzotter?",
+      "options": [
+        {
+          "text": "An gelben Halbmonden"
+        },
+        {
+          "text": "An einem Zickzackband auf ihrem Rücken"
+        },
+        {
+          "text": "An ihrer blauen Farbe"
+        },
+        {
+          "text": "An ihren langen Zähnen"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Ein Biss der Kreuzotter ist für Menschen tödlich.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q6",
+      "type": "standard",
+      "question": "Wie pflanzt sich die Kreuzotter fort?",
+      "options": [
+        {
+          "text": "Sie legt Eier in einen Komposthaufen"
+        },
+        {
+          "text": "Sie legt Eier im Wasser ab"
+        },
+        {
+          "text": "Sie legt keine Eier"
+        },
+        {
+          "text": "Sie behält die Eier im Körper und die Jungen schlüpfen erst im Herbst"
+        }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 30
+    },
+    {
+      "id": "q7",
+      "type": "standard",
+      "question": "Wozu benutzen Schlangen ihre Zunge?",
+      "options": [
+        {
+          "text": "Nur zum Schmecken"
+        },
+        {
+          "text": "Um Gerüche zu erschnüffeln"
+        },
+        {
+          "text": "Um zu beißen"
+        },
+        {
+          "text": "Um zu trinken"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    }
+  ]
+}
