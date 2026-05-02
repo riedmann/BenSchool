@@ -1,6 +1,6 @@
 # Schlangen - Sinne und Thermoregulation
 
-![Schlangen Übersicht](images/IMG_20260502_091630.jpg)
+![Schlangen Übersicht](images/IMG_20260502_091607.jpg)
 
 ## Hast du gewusst, dass...
 
@@ -10,7 +10,7 @@
 - Schwarze gelbe Schlangen können sich bei Sonnenschein schneller aufwärmen und dann besser bewegen oder vor Feinden fliehen
 - Im Hochgebirge ist die schwarze Farbe daher nützlicher als die
 
-![Kreuzotter](images/IMG_20260502_091630.jpg)
+![Kreuzotter](images/IMG_20260502_091607.jpg)
 *63.1 - Kreuzotter*
 
 ---
@@ -25,7 +25,7 @@ Schlangen hören und sehen sehr schlecht. Sie haben aber andere Möglichkeiten, 
 
 Das **Geruchsorgan** der Schlange liegt am Gaumen. Mit der gespaltenen Zunge "schmeckt" die Schlange die Duftstoffe und bringt sie an den Gaumen. Dabei bemerkt sie schon winzig. Unterschiede der Duftstoffe auf beiden Zungenspitzen hilft ihr weiß, auf welcher Seite es stärker nach Beute riecht.
 
-![Geruchssinn der Schlange - Schema](images/IMG_20260502_091630.jpg)
+![Geruchssinn der Schlange - Schema](images/IMG_20260502_091607.jpg)
 *63.2 - Illustration: Schlange verfolgt Mausspur mit Hilfe ihrer gespaltenen Zunge*
 
 **Darstellung:**
@@ -64,7 +64,7 @@ Besonders wohl fühlen sich Schlangen meist bei einer Körpertemperatur von 20 b
 ### Arbeitsauftrag 10
 **Hier siehst du in Rot die Duftstoffe einer Maus, so wie die Schlange sie riechen kann. Zeichne ein, wo die Maus vermutlich zu finden ist.**
 
-![Aufgabe: Duftspur verfolgen](images/IMG_20260502_091630.jpg)
+![Aufgabe: Duftspur verfolgen](images/IMG_20260502_091607.jpg)
 
 ---
 

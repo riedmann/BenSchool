@@ -1,0 +1,541 @@
+{
+  "id": "quiz-biology1-schlangen-sinne-001",
+  "title": "Schlangen - Sinne und Thermoregulation Quiz",
+  "description": "Ein Quiz über Schlangen mit 30 Fragen zu Sinnesorganen, Geruchssinn, Thermoregulation und Anpassungen",
+  "difficulty": "medium",
+  "category": "biology1",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "true-false",
+      "question": "Gibt es schwarze Kreuzottern?",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q2",
+      "type": "standard",
+      "question": "Wie wird die schwarze Kreuzotter auch genannt?",
+      "options": [
+        {
+          "text": "Bergotter"
+        },
+        {
+          "text": "Höllenotter"
+        },
+        {
+          "text": "Schattenotter"
+        },
+        {
+          "text": "Nachtotter"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q3",
+      "type": "standard",
+      "question": "Warum ist die schwarze Farbe im Hochgebirge für Schlangen vorteilhaft?",
+      "options": [
+        {
+          "text": "Bessere Tarnung"
+        },
+        {
+          "text": "Schnellere Aufwärmung bei Sonnenschein"
+        },
+        {
+          "text": "Schutz vor UV-Strahlung"
+        },
+        {
+          "text": "Abschreckung von Feinden"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "question": "Schlangen hören und sehen sehr gut.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q5",
+      "type": "standard",
+      "question": "Welchen Sinn nutzen Schlangen hauptsächlich bei der Jagd?",
+      "options": [
+        {
+          "text": "Das Sehen"
+        },
+        {
+          "text": "Das Riechen"
+        },
+        {
+          "text": "Das Hören"
+        },
+        {
+          "text": "Den Tastsinn"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q6",
+      "type": "standard",
+      "question": "Wo liegt das Geruchsorgan der Schlange?",
+      "options": [
+        {
+          "text": "In der Nase"
+        },
+        {
+          "text": "An der Zungenspitze"
+        },
+        {
+          "text": "Am Gaumen"
+        },
+        {
+          "text": "In den Augen"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q7",
+      "type": "standard",
+      "question": "Wie ist die Zunge der Schlange geformt?",
+      "options": [
+        {
+          "text": "Rund"
+        },
+        {
+          "text": "Gespalten"
+        },
+        {
+          "text": "Flach"
+        },
+        {
+          "text": "Gerollt"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 20
+    },
+    {
+      "id": "q8",
+      "type": "standard",
+      "question": "Wozu nutzt die Schlange ihre gespaltene Zunge?",
+      "options": [
+        {
+          "text": "Zum Beißen"
+        },
+        {
+          "text": "Zum Atmen"
+        },
+        {
+          "text": "Zum \"Schmecken\" der Duftstoffe und Bringen an den Gaumen"
+        },
+        {
+          "text": "Zur Verteidigung"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q9",
+      "type": "standard",
+      "question": "Was kann die Schlange durch die gespaltene Zunge erkennen?",
+      "options": [
+        {
+          "text": "Die Temperatur"
+        },
+        {
+          "text": "Die Farbe der Beute"
+        },
+        {
+          "text": "Die Größe der Beute"
+        },
+        {
+          "text": "Auf welcher Seite es stärker nach Beute riecht"
+        }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 30
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Schlangen sind wechselwarm.",
+      "correctAnswer": true,
+      "timeLimit": 15
+    },
+    {
+      "id": "q11",
+      "type": "standard",
+      "question": "Was bedeutet \"wechselwarm\"?",
+      "options": [
+        {
+          "text": "Die Körpertemperatur bleibt immer gleich"
+        },
+        {
+          "text": "Die Körpertemperatur ändert sich mit der Umgebungstemperatur"
+        },
+        {
+          "text": "Die Körpertemperatur wechselt zwischen Tag und Nacht"
+        },
+        {
+          "text": "Die Schlange kann ihre Temperatur selbst regulieren"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q12",
+      "type": "standard",
+      "question": "Was passiert, wenn es kalt wird?",
+      "options": [
+        {
+          "text": "Die Schlange produziert mehr Wärme"
+        },
+        {
+          "text": "Die Schlange kühlt ab und erstarrt"
+        },
+        {
+          "text": "Die Schlange beginnt zu rennen"
+        },
+        {
+          "text": "Nichts, die Temperatur bleibt konstant"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q13",
+      "type": "standard",
+      "question": "Worauf muss eine erkaltete Schlange warten?",
+      "options": [
+        {
+          "text": "Auf Nahrung"
+        },
+        {
+          "text": "Auf Regen"
+        },
+        {
+          "text": "Auf die Nacht"
+        },
+        {
+          "text": "Auf warmes Wetter"
+        }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 25
+    },
+    {
+      "id": "q14",
+      "type": "standard",
+      "question": "Bei welcher Körpertemperatur fühlen sich Schlangen am wohlsten?",
+      "options": [
+        {
+          "text": "0 bis 10 °C"
+        },
+        {
+          "text": "10 bis 20 °C"
+        },
+        {
+          "text": "20 bis 30 °C"
+        },
+        {
+          "text": "30 bis 40 °C"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q15",
+      "type": "standard",
+      "question": "Warum sieht man Schlangen bei großer Hitze nur selten?",
+      "options": [
+        {
+          "text": "Sie schlafen dann"
+        },
+        {
+          "text": "Sie sterben bei Hitze"
+        },
+        {
+          "text": "Sie werden unsichtbar"
+        },
+        {
+          "text": "Sie ziehen sich in kühlere Verstecke zurück"
+        }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 30
+    },
+    {
+      "id": "q16",
+      "type": "true-false",
+      "question": "Schlangen können ihre Körpertemperatur selbst regulieren wie Säugetiere.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q17",
+      "type": "standard",
+      "question": "Wie regulieren Schlangen ihre Körpertemperatur?",
+      "options": [
+        {
+          "text": "Durch Schwitzen"
+        },
+        {
+          "text": "Durch Verhaltensänderung (Sonnen oder Verstecken)"
+        },
+        {
+          "text": "Durch Zittern"
+        },
+        {
+          "text": "Durch schnelles Atmen"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q18",
+      "type": "standard",
+      "question": "Was machen Schlangen, wenn sie sich aufwärmen wollen?",
+      "options": [
+        {
+          "text": "Sie laufen schnell"
+        },
+        {
+          "text": "Sie suchen Sonnenplätze auf"
+        },
+        {
+          "text": "Sie graben sich ein"
+        },
+        {
+          "text": "Sie fressen mehr"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q19",
+      "type": "standard",
+      "question": "Welchen Vorteil hat die schwarze Färbung im Hochgebirge?",
+      "options": [
+        {
+          "text": "Bessere Tarnung vor Feinden"
+        },
+        {
+          "text": "Schutz vor Kälte"
+        },
+        {
+          "text": "Bessere Wärmeaufnahme bei Sonnenschein"
+        },
+        {
+          "text": "Schutz vor UV-Strahlung"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q20",
+      "type": "true-false",
+      "question": "Die gespaltene Zunge hilft der Schlange, die Richtung der Beute präzise zu orten.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q21",
+      "type": "standard",
+      "question": "Was wird durch das \"Züngeln\" aufgenommen?",
+      "options": [
+        {
+          "text": "Licht"
+        },
+        {
+          "text": "Duftstoffe"
+        },
+        {
+          "text": "Schallwellen"
+        },
+        {
+          "text": "Wärme"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q22",
+      "type": "standard",
+      "question": "Wie transportiert die Schlange die Duftstoffe zum Geruchsorgan?",
+      "options": [
+        {
+          "text": "Durch die Nase"
+        },
+        {
+          "text": "Mit der gespaltenen Zunge zum Gaumen"
+        },
+        {
+          "text": "Durch die Haut"
+        },
+        {
+          "text": "Durch die Augen"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q23",
+      "type": "true-false",
+      "question": "Schlangen können winzige Unterschiede in Duftstoffen wahrnehmen.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q24",
+      "type": "standard",
+      "question": "Welche beiden Sinne sind bei Schlangen schlecht entwickelt?",
+      "options": [
+        {
+          "text": "Sehen und Hören"
+        },
+        {
+          "text": "Geruch und Geschmack"
+        },
+        {
+          "text": "Tastsinn und Temperatursinn"
+        },
+        {
+          "text": "Geruch und Tastsinn"
+        }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q25",
+      "type": "standard",
+      "question": "Was passiert mit einer Schlange, die zu stark abkühlt?",
+      "options": [
+        {
+          "text": "Sie wird aktiver"
+        },
+        {
+          "text": "Sie fängt an zu frieren"
+        },
+        {
+          "text": "Sie erstarrt und kann sich nicht bewegen"
+        },
+        {
+          "text": "Sie produziert mehr Wärme"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q26",
+      "type": "standard",
+      "question": "Warum ist die Fähigkeit, Duftstoffe zu orten, für Schlangen wichtig?",
+      "options": [
+        {
+          "text": "Zur Fortpflanzung"
+        },
+        {
+          "text": "Zur Kommunikation"
+        },
+        {
+          "text": "Zur Navigation und Jagd"
+        },
+        {
+          "text": "Zur Verteidigung"
+        }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q27",
+      "type": "true-false",
+      "question": "Bei 35 °C Außentemperatur sonnen sich Schlangen besonders gern.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q28",
+      "type": "standard",
+      "question": "Was ist der optimale Temperaturbereich für Schlangen?",
+      "options": [
+        {
+          "text": "0-10 °C"
+        },
+        {
+          "text": "20-30 °C"
+        },
+        {
+          "text": "10-20 °C"
+        },
+        {
+          "text": "30-40 °C"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q29",
+      "type": "standard",
+      "question": "Welche Aussage über wechselwarme Tiere ist korrekt?",
+      "options": [
+        {
+          "text": "Sie können ihre Körpertemperatur selbst produzieren"
+        },
+        {
+          "text": "Sie sind auf externe Wärmequellen angewiesen"
+        },
+        {
+          "text": "Sie haben immer die gleiche Temperatur"
+        },
+        {
+          "text": "Sie können nicht überleben"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q30",
+      "type": "standard",
+      "question": "Was zeigt Abbildung 63.2?",
+      "options": [
+        {
+          "text": "Eine Schlange beim Fressen"
+        },
+        {
+          "text": "Eine Schlange, die mit ihrer Zunge Duftstoffe aufnimmt, um eine Maus zu finden"
+        },
+        {
+          "text": "Eine Schlange beim Sonnenbaden"
+        },
+        {
+          "text": "Zwei kämpfende Schlangen"
+        }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 35
+    }
+  ]
+}
