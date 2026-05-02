@@ -7,7 +7,7 @@
 
 Schlangen haben keine Beine und bewegen sich schlängelnd fort. Sie passen sich gut an die Fortbewegung zwischen dicht wachsenden Gräsern und Pflanzen an.
 
-Es ist wichtig, dass sie nicht zurückweichen, wenn man ihnen begegnet. Sie greifen nicht an. Rauhe Steine und Hörner, die sie ab wenig aufsuchen können. So finden sie Haut mit ihrem Profil zieht auftauchen. Es trägt man Schuhe mit hohem Profil, die trägt.
+Es ist wichtig, dass man nicht zurückweicht, wenn man ihnen begegnet. Sie greifen nicht an. Man sollte Schuhe mit hohem Profil tragen, die Schutz bieten.
 
 ---
 
@@ -61,10 +61,9 @@ In Österreich gibt es **sechs heimische Schlangenarten**. Sie stehen alle unter
 
 **Wichtige Regeln:**
 - Schlangen sieht man nur selten in der freien Natur
-- Sie sind sehr scheu und vor dem Menschen flüchten
+- Sie sind sehr scheu und flüchten vor dem Menschen
 - Sie fressen kleine Tiere (Mäuse, Frösche) - eine wichtige Rolle im ökologischen Gleichgewicht
 - Manche Schlangenarten legen Eier, andere tragen lebende Jungen
-- Man kann sich, die die Räubern schützen und auch von Nahrungssuche bewohnen
 
 ---
 

@@ -11,7 +11,7 @@ Weil **Reptilien** am Boden kriechen, werden sie auch **Kriechtiere** genannt. Z
 
 **Reptilien** haben kein Fell und keine Federn, die sie vor Kälte schützen. Ihre Körpertemperatur wechselt mit der Außentemperatur. Sie sind **wechselwarm**. Daher liegen sie gerne in der Sonne, um sich aufzuwärmen.
 
-Ihre Körper sind mit trockenen **Schuppen** und **Schilden** aus Horn bedeckt, die sie vor Verletzungen schützen. Schlangen haben sogar über beiden Augen jeweils eine durchsichtige Schuppe. Daher können sie sich nicht blinzeln.
+Ihre Körper sind mit trockenen **Schuppen** und **Schilden** aus Horn bedeckt, die sie vor Verletzungen schützen. Schlangen haben sogar über beiden Augen jeweils eine durchsichtige Schuppe. Daher können sie nicht blinzeln.
 
 Die Schuppenhaut der Schlangen kann nicht mitwachsen. Bei der **Häutung** streifen die Tiere deswegen ihr zu klein gewordenes "Hemd" in einem Stück ab (Abb. 59.2).
 

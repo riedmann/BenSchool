@@ -5,11 +5,11 @@
 
 ### Eigenschaften von Flugvögeln
 
-**Hühnervögel** haben einen großen Körper und relativ kurze Flügel. Sie sind nicht sehr gut fliegen. Viele Vogelarten sind aber wahre Flugkünstler.
+**Hühnervögel** haben einen großen Körper und relativ kurze Flügel. Sie können nicht sehr gut fliegen. Viele Vogelarten sind aber wahre Flugkünstler.
 
 **Anpassungen für den Flug:**
 - Vögel müssen leicht sein, um fliegen zu können
-- Sie haben zum Beispiel leichte Knochen als Säugetiere und geben ihren Kot mäßig ab, um Gewicht zu sparen
+- Sie haben zum Beispiel leichtere Knochen als Säugetiere und geben ihren Kot regelmäßig ab, um Gewicht zu sparen
 - Sie haben auch keine schweren Zähne
 
 ### Knochen im Vergleich (51.2)
@@ -28,9 +28,9 @@
 
 Der Vogel bewegt seine Flügel mithilfe seiner Muskeln auf und ab.
 
-Beim Abwärtsschlag wird die Luft nach unten gedrückt und bewegt sich der Vogel nach oben. Dabei müssen dabei Luft und Flügel eine "Tragefläche" bilden - wie bei einem Flugzeug.
+Beim Abwärtsschlag wird die Luft nach unten gedrückt und der Vogel bewegt sich nach oben. Dabei müssen Luft und Flügel eine "Tragefläche" bilden - wie bei einem Flugzeug.
 
-Beim Aufwärtsschlag winkelt der Vogel die Flügel an und zieht sie nach oben. Obwohl Vögel leicht sind, brauchen sie viel Energie zum Fliegen. Diese Energie bekommen sie aus fettreicher Nahrung. Um Energie aus Fett freizusetzen, brauchen die Muskeln Sauerstoff. Die Lungen der Vögel ist so gebaut, dass sie ständig Sauerstoff aus der Luft aufnimmt.
+Beim Aufwärtsschlag winkelt der Vogel die Flügel an und zieht sie nach oben. Obwohl Vögel leicht sind, brauchen sie viel Energie zum Fliegen. Diese Energie bekommen sie aus fettreicher Nahrung. Um Energie aus Fett freizusetzen, brauchen die Muskeln Sauerstoff. Die Lunge der Vögel ist so gebaut, dass sie ständig Sauerstoff aus der Luft aufnimmt.
 
 ### Atmungssystem
 
@@ -56,7 +56,7 @@ Beim Aufwärtsschlag winkelt der Vogel die Flügel an und zieht sie nach oben. O
 
 **Stoffwechsel bei Vögeln:**
 - Vögel sammeln Kot und Harn nicht wie Säugetiere im Körper
-- Der Vogelkot ist der Stoffwechsel (die Umwandlung und Abgabe von Stoffen) an das Fliegen angepasst
+- Der Stoffwechsel (die Umwandlung und Abgabe von Stoffen) ist bei Vögeln an das Fliegen angepasst
 - Sie geben ihren flüssigen Kot in kleinen Mengen ab, sobald er produziert wird
 - So sind sie leichter und können besser fliegen
 

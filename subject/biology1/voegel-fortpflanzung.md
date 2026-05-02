@@ -8,11 +8,11 @@
 
 ### Befruchtung
 
-Die Befruchtung beim Hühnerei kann kein Küken entstehen, wenn sich die Eizelle der Henne nicht mit einer männlichen Samenzelle eines Hahns paart. Dazu springt der Hahn auf die Henne, gibt seine Kloake an ihre Kloake ab. Männchen nennt man auch Hähne.
+Ohne Befruchtung beim Hühnerei kann kein Küken entstehen. Die Eizelle der Henne muss sich mit einer männlichen Samenzelle eines Hahns paaren. Dazu springt der Hahn auf die Henne und berührt mit seiner Kloake ihre Kloake. Männchen nennt man auch Hähne.
 
 Die Eizelle wandert in den Eileiter. Sie muss befruchtet werden, bevor sie ihre Hüllen (Eiklar und Schale) erhält.
 
-Wenn die Eizelle befruchtet haben, bildet sich in den Eiern im Körper der Henne. Nur dann wird daraus eine Eizelle mit einem Spermatozoon (= männliche Samenzelle) befruchtet sein.
+Wenn die Eizelle befruchtet wurde, bildet sich ein Embryo. Nur befruchtete Eier entwickeln sich zu Küken.
 
 ---
 
@@ -29,7 +29,7 @@ Wenn die Eizelle befruchtet haben, bildet sich in den Eiern im Körper der Henne
 
 **So entsteht ein Ei:**
 
-Im Eierstock der Henne wird eine Eizelle reif. Sie wandert in den Eileiter. Dort entsteht zuerst die nährstoffreiche **Eidotter**. Dann kommen das **Eiklar** (Eiweiß) und eine dünne Schalenhaut hinzu. Am Ende des Eierleiters liegt die Schleimdrüse. Hier wird das Ei mit einer dicken **Kalkschale** versehen.
+Im Eierstock der Henne wird eine Eizelle reif. Sie wandert in den Eileiter. Dort entsteht zuerst der nährstoffreiche **Eidotter**. Dann kommen das **Eiklar** (Eiweiß) und eine dünne Schalenhaut hinzu. Am Ende des Eierleiters liegt die Schleimdrüse. Hier wird das Ei mit einer dicken **Kalkschale** versehen.
 
 ---
 

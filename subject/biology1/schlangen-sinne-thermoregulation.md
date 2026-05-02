@@ -5,8 +5,8 @@
 **Die schwarze Kreuzotter:**
 - Es eine schwarze Kreuzotter gibt?
 - Sie kommt in höher gelegenen Gebieten vor und wird „Höllenotter" genannt
-- Schwarze gelbe Schlangen können sich bei Sonnenschein schneller aufwärmen und dann besser bewegen oder vor Feinden fliehen
-- Im Hochgebirge ist die schwarze Farbe daher nützlicher als die
+- Schwarze Schlangen können sich bei Sonnenschein schneller aufwärmen und dann besser bewegen oder vor Feinden fliehen
+- Im Hochgebirge ist die schwarze Farbe daher nützlicher
 
 ![Kreuzotter](images/IMG_20260502_091607.jpg)
 *63.1 - Kreuzotter*
@@ -21,7 +21,7 @@ Schlangen hören und sehen sehr schlecht. Sie haben aber andere Möglichkeiten, 
 
 ### Wie funktioniert das Geruchsorgan?
 
-Das **Geruchsorgan** der Schlange liegt am Gaumen. Mit der gespaltenen Zunge "schmeckt" die Schlange die Duftstoffe und bringt sie an den Gaumen. Dabei bemerkt sie schon winzig. Unterschiede der Duftstoffe auf beiden Zungenspitzen hilft ihr weiß, auf welcher Seite es stärker nach Beute riecht.
+Das **Geruchsorgan** der Schlange liegt am Gaumen. Mit der gespaltenen Zunge nimmt die Schlange die Duftstoffe auf und bringt sie an den Gaumen. Dabei bemerkt sie schon winzige Unterschiede der Duftstoffe auf beiden Zungenspitzen. Das hilft ihr zu erkennen, auf welcher Seite es stärker nach Beute riecht.
 
 ![Geruchssinn der Schlange - Schema](images/IMG_20260502_091607.jpg)
 *63.2 - Illustration: Schlange verfolgt Mausspur mit Hilfe ihrer gespaltenen Zunge*
@@ -43,7 +43,7 @@ Wenn es kalt wird, kühlt der Körper der Schlange sehr schnell ab. Sie erstarrt
 
 ### Thermoregulation durch Verhalten
 
-Besonders wohl fühlen sich Schlangen meist bei einer Körpertemperatur von 20 bis 30 °C. Bei großer Hitze steht man Schlangen nur selten, weil sie sich dann in kühlere Verstecke zurückziehen.
+Besonders wohl fühlen sich Schlangen meist bei einer Körpertemperatur von 20 bis 30 °C. Bei großer Hitze sieht man Schlangen nur selten, weil sie sich dann in kühlere Verstecke zurückziehen.
 
 **Anpassung:**
 - Schlangen suchen aktiv Sonnenplätze auf, um sich aufzuwärmen

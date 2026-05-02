@@ -21,7 +21,7 @@
 
 **Jagdmethode:**
 - Kleinere Tiere werden von der Natter gepackt und verschluckt
-- Größere Beutetiere: Die Schlange packt die Schlange am Hals und umschlingt sie mit drei Windungen
+- Größere Beutetiere: Die Schlange packt das Beutetier am Hals und umschlingt es mit drei Windungen
 - Danach wartet die Natter, bis das Tier erstickt
 - Anschließend verschlingt sie die Beute
 
@@ -32,7 +32,7 @@
 **Jagdmethode:**
 - Sie haben zwei **Giftzähne** im Oberkiefer
 - Die Giftzähne sind wie zwei Kanäle mit einer **Giftdrüse** verbunden
-- Die Giftdrüse ist durch die Zähne in die Beute gepresst
+- Das Gift wird durch die Zähne in die Beute gepresst
 - Das funktioniert bei Beute sehr gut (Abb. 61.1)
 
 **Besonderheit:**
@@ -47,7 +47,7 @@ Die Schlange wartet, bis das Tier stirbt, und sucht es dann mithilfe ihres guten
 
 **Der Verschlingungsprozess:**
 
-Alle Schlangen verschlingen ihre Beute im Ganzen. Sie können ihr Maul weit aufgehnen, weil die Kieferknochen nur mit elastischen Bändern verbunden sind.
+Alle Schlangen verschlingen ihre Beute im Ganzen. Sie können ihr Maul weit öffnen, weil die Kieferknochen nur mit elastischen Bändern verbunden sind.
 
 **Schritte:**
 1. Die Schlange öffnet ihr Maul sehr weit

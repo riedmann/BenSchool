@@ -12,11 +12,11 @@
 **Entwicklung des Geweihs:**
 - Es wächst pro Tag etwa 2,5 cm
 - Wenn das Geweih wächst, muss es gut ernährt werden
-- Dazu ist eine zusätzliche Haut umgeben, die stark durchblutet ist
+- Dazu ist das Geweih von einer zusätzlichen Haut umgeben, die stark durchblutet ist
 - Wenn das Geweih ausgewachsen ist, wird der Bast in Baumstämmen abgerieben
 
 **Besonderheit:**
-- Am Frühjahr, wenn das Geweih wächst, muss es gut ernährt werden
+- Im Frühjahr, wenn das Geweih wächst, muss es gut ernährt werden
 - Die Geweihe älterer Tiere sind verzweigter als die der jüngeren
 - Bei den meisten Tieren haben nur die **Männchen (♂)** ein Geweih
 
