@@ -1,0 +1,381 @@
+{
+  "id": "voegel-fortpflanzung-quiz",
+  "title": "Vögel - Wirbeltiere mit Federn",
+  "description": "30 Fragen über Vögel, ihre Fortpflanzung, den Aufbau des Eies und die Entwicklung von Küken. Themen: Befruchtung, Ei-Entstehung, Brüten, Nestflüchter, Körperbau des Huhns.",
+  "difficulty": "medium",
+  "category": "Biologie - Vögel",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "standard",
+      "question": "Was sind Vögel?",
+      "options": [
+        { "text": "Wirbeltiere mit Fell" },
+        { "text": "Wirbellose mit Federn" },
+        { "text": "Wirbeltiere mit Federn" },
+        { "text": "Säugetiere" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 20
+    },
+    {
+      "id": "q2",
+      "type": "standard",
+      "question": "Wie nennt man das männliche Huhn?",
+      "options": [
+        { "text": "Hahn" },
+        { "text": "Gockel" },
+        { "text": "Männchen" },
+        { "text": "Alle Antworten sind richtig" }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 20
+    },
+    {
+      "id": "q3",
+      "type": "standard",
+      "question": "Wo wird die Eizelle bei der Henne gebildet?",
+      "options": [
+        { "text": "Im Eileiter" },
+        { "text": "In der Kloake" },
+        { "text": "Im Eierstock" },
+        { "text": "Im Schnabel" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q4",
+      "type": "standard",
+      "question": "Was entsteht zuerst im Eileiter?",
+      "options": [
+        { "text": "Der Eidotter" },
+        { "text": "Die Kalkschale" },
+        { "text": "Das Eiklar" },
+        { "text": "Die Schalenhaut" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q5",
+      "type": "standard",
+      "question": "Was wird am Ende des Eileiters hinzugefügt?",
+      "options": [
+        { "text": "Der Dotter" },
+        { "text": "Die Kalkschale" },
+        { "text": "Das Eiklar" },
+        { "text": "Die Keimscheibe" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q6",
+      "type": "standard",
+      "question": "Wie viele Eier legt eine Henne, bevor sie zu brüten beginnt?",
+      "options": [
+        { "text": "5-8" },
+        { "text": "30-40" },
+        { "text": "10-20" },
+        { "text": "50-60" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q7",
+      "type": "standard",
+      "question": "Wie lange dauert es, bis Küken aus dem Ei schlüpfen?",
+      "options": [
+        { "text": "7 Tage" },
+        { "text": "21 Tage" },
+        { "text": "14 Tage" },
+        { "text": "30 Tage" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q8",
+      "type": "standard",
+      "question": "Was bedeutet \"brüten\"?",
+      "options": [
+        { "text": "Eier legen" },
+        { "text": "Ein Nest bauen" },
+        { "text": "Futter suchen" },
+        { "text": "Auf den Eiern sitzen und sie warm halten" }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 25
+    },
+    {
+      "id": "q9",
+      "type": "standard",
+      "question": "Wovon ernährt sich das Küken im Ei?",
+      "options": [
+        { "text": "Von der Schale" },
+        { "text": "Von Dotter und Eiklar" },
+        { "text": "Von Luft" },
+        { "text": "Von der Hagelschnur" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q10",
+      "type": "standard",
+      "question": "Was sind Nestflüchter?",
+      "options": [
+        { "text": "Tiere, die sofort nach dem Schlüpfen laufen können" },
+        { "text": "Tiere, die lange im Nest bleiben" },
+        { "text": "Tiere, die nicht laufen können" },
+        { "text": "Tiere ohne Federn" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q11",
+      "type": "standard",
+      "question": "Was hält den Dotter in der Mitte des Eies?",
+      "options": [
+        { "text": "Die Luftkammer" },
+        { "text": "Die Kalkschale" },
+        { "text": "Die Hagelschnur" },
+        { "text": "Das Eiklar" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q12",
+      "type": "standard",
+      "question": "Aus welchem Teil des Eies entwickelt sich das Küken?",
+      "options": [
+        { "text": "Aus dem Dotter" },
+        { "text": "Aus der Keimscheibe" },
+        { "text": "Aus dem Eiklar" },
+        { "text": "Aus der Schale" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q13",
+      "type": "standard",
+      "question": "Wo befindet sich die Luftkammer im Ei?",
+      "options": [
+        { "text": "Zwischen den Schalenhäuten" },
+        { "text": "In der Mitte" },
+        { "text": "Im Dotter" },
+        { "text": "Außerhalb des Eies" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q14",
+      "type": "standard",
+      "question": "Woraus besteht die äußere Schale des Eies?",
+      "options": [
+        { "text": "Aus Eiweiß" },
+        { "text": "Aus Kalk" },
+        { "text": "Aus Plastik" },
+        { "text": "Aus Fett" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 20
+    },
+    {
+      "id": "q15",
+      "type": "standard",
+      "question": "Was umhüllt den Dotter?",
+      "options": [
+        { "text": "Die Dotterhaut" },
+        { "text": "Die Kalkschale" },
+        { "text": "Das Eiklar" },
+        { "text": "Die Luftkammer" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 20
+    },
+    {
+      "id": "q16",
+      "type": "standard",
+      "question": "Wie paaren sich Hahn und Henne?",
+      "options": [
+        { "text": "Der Hahn berührt mit seiner Kloake die Kloake der Henne" },
+        { "text": "Durch Küssen" },
+        { "text": "Durch Berühren der Schnäbel" },
+        { "text": "Durch Berühren der Flügel" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q17",
+      "type": "standard",
+      "question": "Wann muss die Eizelle befruchtet werden?",
+      "options": [
+        { "text": "Nach der Schalenbildung" },
+        { "text": "Bevor sie ihre Hüllen (Eiklar und Schale) erhält" },
+        { "text": "Nach dem Legen" },
+        { "text": "Während des Brütens" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q18",
+      "type": "standard",
+      "question": "Warum legen Hennen in der Landwirtschaft kontinuierlich Eier?",
+      "options": [
+        { "text": "Weil sie besonders produktiv sind" },
+        { "text": "Weil sie nie müde werden" },
+        { "text": "Weil man ihnen die Eier wegnimmt" },
+        { "text": "Weil sie keine Brutinstinkte haben" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q19",
+      "type": "standard",
+      "question": "Was ist die Kloake?",
+      "options": [
+        { "text": "Ein Körperteil zum Fliegen" },
+        { "text": "Ein Teil des Schnabels" },
+        { "text": "Ein Ausgang für Eier und Ausscheidungen" },
+        { "text": "Ein Teil der Federn" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q20",
+      "type": "standard",
+      "question": "Welcher Teil des Huhns ist rot und befindet sich auf dem Kopf?",
+      "options": [
+        { "text": "Kamm" },
+        { "text": "Kehllappen" },
+        { "text": "Schnabel" },
+        { "text": "Federn" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 20
+    },
+    {
+      "id": "q21",
+      "type": "standard",
+      "question": "Was sind Kehllappen?",
+      "options": [
+        { "text": "Federn am Hals" },
+        { "text": "Schuppen auf den Beinen" },
+        { "text": "Rote Hautlappen unter dem Schnabel" },
+        { "text": "Teile des Schnabels" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q22",
+      "type": "true-false",
+      "question": "Küken können sofort nach dem Schlüpfen selbstständig Futter suchen.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q23",
+      "type": "standard",
+      "question": "Was ist die Funktion des Eiklars?",
+      "options": [
+        { "text": "Schutz und Nahrung für den Embryo" },
+        { "text": "Nur Dekoration" },
+        { "text": "Bildung der Schale" },
+        { "text": "Atmung" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q24",
+      "type": "standard",
+      "question": "Welcher Teil des Eies ist am nährstoffreichsten?",
+      "options": [
+        { "text": "Das Eiklar" },
+        { "text": "Der Eidotter" },
+        { "text": "Die Schale" },
+        { "text": "Die Luftkammer" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q25",
+      "type": "standard",
+      "question": "Wie lange sitzt die Henne auf den Eiern?",
+      "options": [
+        { "text": "Nur nachts" },
+        { "text": "Tag und Nacht" },
+        { "text": "Nur tagsüber" },
+        { "text": "Gar nicht" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 20
+    },
+    {
+      "id": "q26",
+      "type": "standard",
+      "question": "Was passiert im Ei während der Brutzeit?",
+      "options": [
+        { "text": "Es entwickelt sich ein Küken" },
+        { "text": "Nichts" },
+        { "text": "Das Ei wird größer" },
+        { "text": "Das Ei wird härter" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q27",
+      "type": "standard",
+      "question": "Wozu dient die Schalenhaut?",
+      "options": [
+        { "text": "Zum Fliegen" },
+        { "text": "Zum Schutz des Eies von innen" },
+        { "text": "Zum Schwimmen" },
+        { "text": "Zum Fressen" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q28",
+      "type": "true-false",
+      "question": "Alle Vögel haben Federn.",
+      "correctAnswer": true,
+      "timeLimit": 15
+    },
+    {
+      "id": "q29",
+      "type": "standard",
+      "question": "Was ist die Hauptfunktion der Kalkschale?",
+      "options": [
+        { "text": "Nahrung für das Küken" },
+        { "text": "Atmung" },
+        { "text": "Schutz des Eies von außen" },
+        { "text": "Fortbewegung" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q30",
+      "type": "true-false",
+      "question": "Küken können nach dem Schlüpfen sofort laufen.",
+      "correctAnswer": true,
+      "timeLimit": 15
+    }
+  ]
+}

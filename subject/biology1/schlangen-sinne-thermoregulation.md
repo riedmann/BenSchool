@@ -1,7 +1,5 @@
 # Schlangen - Sinne und Thermoregulation
 
-![Schlangen Übersicht](images/IMG_20260502_091607.jpg)
-
 ## Hast du gewusst, dass...
 
 **Die schwarze Kreuzotter:**

@@ -1,6 +1,5 @@
 # Vögel - Wirbeltiere mit Federn
 
-![Vögel Übersicht](images/IMG_20260502_091630.jpg)
 
 ## 2.6 Vögel - Wirbeltiere mit Federn
 

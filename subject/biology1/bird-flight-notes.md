@@ -1,6 +1,5 @@
 # Der Vogelflug - BASICS
 
-![Vogelflug Übersicht](images/IMG_20260502_091640.jpg)
 
 ## vom Fliegen
 

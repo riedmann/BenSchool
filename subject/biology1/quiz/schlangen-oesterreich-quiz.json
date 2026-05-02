@@ -1,0 +1,353 @@
+{
+  "id": "schlangen-oesterreich-quiz",
+  "title": "Reptilien in Österreich - Schlangen",
+  "description": "30 Fragen über heimische Schlangenarten in Österreich, ihre Merkmale, Lebensräume und Verhalten. Themen: 6 heimische Arten, Giftschlangen, Naturschutz, Wirbeltiere, ökologisches Gleichgewicht.",
+  "difficulty": "medium",
+  "category": "Biologie - Reptilien",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "standard",
+      "question": "Wie viele heimische Schlangenarten gibt es in Österreich?",
+      "options": [
+        { "text": "3" },
+        { "text": "6" },
+        { "text": "4" },
+        { "text": "8" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 20
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Alle heimischen Schlangen in Österreich stehen unter strengem Naturschutz.",
+      "correctAnswer": true,
+      "timeLimit": 15
+    },
+    {
+      "id": "q3",
+      "type": "standard",
+      "question": "Wie bewegen sich Schlangen fort?",
+      "options": [
+        { "text": "Sie hüpfen" },
+        { "text": "Sie rollen" },
+        { "text": "Sie schlängeln sich" },
+        { "text": "Sie kriechen gerade" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 20
+    },
+    {
+      "id": "q4",
+      "type": "standard",
+      "question": "Warum ist die schlängelnde Bewegung für Schlangen vorteilhaft?",
+      "options": [
+        { "text": "Sie können schneller laufen" },
+        { "text": "Sie können besser schwimmen" },
+        {
+          "text": "Sie passen sich gut an die Fortbewegung zwischen dicht wachsenden Gräsern an"
+        },
+        { "text": "Sie können besser klettern" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Schlangen haben Gliedmaßen (Beine).",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q6",
+      "type": "true-false",
+      "question": "Schlangen sind Wirbeltiere.",
+      "correctAnswer": true,
+      "timeLimit": 15
+    },
+    {
+      "id": "q7",
+      "type": "standard",
+      "question": "Was ist die Besonderheit der Schlange als Wirbeltier?",
+      "options": [
+        { "text": "Sie hat kein Skelett" },
+        { "text": "Sie hat 6 Beine" },
+        { "text": "Sie ist ein Wirbeltier ohne Beine" },
+        { "text": "Sie hat keine Wirbelsäule" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q8",
+      "type": "standard",
+      "question": "Wie viele der 6 heimischen Schlangenarten sind giftig?",
+      "options": [
+        { "text": "2" },
+        { "text": "Keine" },
+        { "text": "1" },
+        { "text": "4" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 20
+    },
+    {
+      "id": "q9",
+      "type": "standard",
+      "question": "Welche Schlangenart legt Eier?",
+      "options": [
+        { "text": "Kreuzotter" },
+        { "text": "Ringelnatter" },
+        { "text": "Hornotter" },
+        { "text": "Alle Schlangen" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q10",
+      "type": "standard",
+      "question": "Welche Schlangenart trägt ihre Eier im Körper?",
+      "options": [
+        { "text": "Ringelnatter" },
+        { "text": "Äskulapnatter" },
+        { "text": "Kreuzotter" },
+        { "text": "Würfelnatter" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q11",
+      "type": "standard",
+      "question": "Welche heimische Schlangenart ist giftig?",
+      "options": [
+        { "text": "Ringelnatter" },
+        { "text": "Äskulapnatter" },
+        { "text": "Würfelnatter" },
+        { "text": "Kreuzotter" }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 20
+    },
+    {
+      "id": "q12",
+      "type": "standard",
+      "question": "Welche ist die zweite giftige Schlangenart in Österreich?",
+      "options": [
+        { "text": "Schlingnatter" },
+        { "text": "Ringelnatter" },
+        { "text": "Hornotter" },
+        { "text": "Äskulapnatter" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q13",
+      "type": "standard",
+      "question": "Wie verhalten sich Schlangen, wenn sie Menschen begegnen?",
+      "options": [
+        { "text": "Sie sind sehr scheu und flüchten" },
+        { "text": "Sie greifen sofort an" },
+        { "text": "Sie bleiben bewegungslos" },
+        { "text": "Sie folgen den Menschen" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q14",
+      "type": "standard",
+      "question": "Welche Rolle spielen Schlangen im ökologischen Gleichgewicht?",
+      "options": [
+        { "text": "Keine besondere Rolle" },
+        { "text": "Sie sind nur Schädlinge" },
+        { "text": "Sie fressen nur Pflanzen" },
+        { "text": "Sie fressen kleine Tiere wie Mäuse und Frösche" }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 30
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "question": "Schlangen haben ein inneres Skelett.",
+      "correctAnswer": true,
+      "timeLimit": 15
+    },
+    {
+      "id": "q16",
+      "type": "standard",
+      "question": "Welche Schlangenart hat gelbe oder weiße Mondflecken hinter dem Kopf?",
+      "options": [
+        { "text": "Kreuzotter" },
+        { "text": "Ringelnatter" },
+        { "text": "Hornotter" },
+        { "text": "Schlingnatter" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q17",
+      "type": "standard",
+      "question": "Welche Schlangenart hat ein Zickzack-Muster auf dem Rücken?",
+      "options": [
+        { "text": "Ringelnatter" },
+        { "text": "Äskulapnatter" },
+        { "text": "Würfelnatter" },
+        { "text": "Kreuzotter" }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 25
+    },
+    {
+      "id": "q18",
+      "type": "standard",
+      "question": "Welche Schlangenart hat ein Würfelmuster auf dem Rücken?",
+      "options": [
+        { "text": "Würfelnatter" },
+        { "text": "Ringelnatter" },
+        { "text": "Kreuzotter" },
+        { "text": "Schlingnatter" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q19",
+      "type": "standard",
+      "question": "Wo lebt die Ringelnatter bevorzugt?",
+      "options": [
+        { "text": "In Wüsten" },
+        { "text": "In Feuchtgebieten und Gewässern" },
+        { "text": "Auf Bergen" },
+        { "text": "In Wäldern" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q20",
+      "type": "standard",
+      "question": "Wo lebt die Kreuzotter bevorzugt?",
+      "options": [
+        { "text": "Moorgebiete, Waldränder, Gebirge" },
+        { "text": "Nur in Gewässern" },
+        { "text": "Nur in Städten" },
+        { "text": "In Wüsten" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q21",
+      "type": "standard",
+      "question": "Welche Schlangenart bevorzugt Fließgewässer und Flüsse?",
+      "options": [
+        { "text": "Kreuzotter" },
+        { "text": "Würfelnatter" },
+        { "text": "Hornotter" },
+        { "text": "Schlingnatter" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q22",
+      "type": "standard",
+      "question": "Wo lebt die Äskulapnatter bevorzugt?",
+      "options": [
+        { "text": "Warme Gebiete, Weinberge, Steinmauern" },
+        { "text": "Moorgebiete" },
+        { "text": "Gebirge" },
+        { "text": "Nur in Gewässern" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q23",
+      "type": "true-false",
+      "question": "Die Ringelnatter ist giftig.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q24",
+      "type": "true-false",
+      "question": "Die Äskulapnatter ist giftig.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q25",
+      "type": "true-false",
+      "question": "Die Schlingnatter ist giftig.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q26",
+      "type": "standard",
+      "question": "Was sollte man tun, wenn man einer Schlange begegnet?",
+      "options": [
+        { "text": "Sie angreifen" },
+        { "text": "Sie töten" },
+        { "text": "Ruhig bleiben, die Schlange flüchtet selbst" },
+        { "text": "Sie einfangen" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q27",
+      "type": "true-false",
+      "question": "Man darf heimische Schlangen in Österreich töten.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q28",
+      "type": "standard",
+      "question": "Was fressen Schlangen?",
+      "options": [
+        { "text": "Kleine Tiere wie Mäuse und Frösche" },
+        { "text": "Nur Pflanzen" },
+        { "text": "Nur Insekten" },
+        { "text": "Nichts, sie sind Parasiten" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q29",
+      "type": "standard",
+      "question": "Welche Aussage über Schlangen ist FALSCH?",
+      "options": [
+        { "text": "Sie sind Wirbeltiere" },
+        { "text": "Sie haben 4 Gliedmaßen" },
+        { "text": "Sie haben ein inneres Skelett" },
+        { "text": "Sie gehören zu den Reptilien" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q30",
+      "type": "standard",
+      "question": "Wo lebt die Hornotter bevorzugt?",
+      "options": [
+        { "text": "In Feuchtgebieten" },
+        { "text": "An Flüssen" },
+        { "text": "Gebirge, alpine Regionen" },
+        { "text": "In Wäldern" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    }
+  ]
+}

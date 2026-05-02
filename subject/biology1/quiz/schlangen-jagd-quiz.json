@@ -1,0 +1,383 @@
+{
+  "id": "schlangen-jagd-quiz",
+  "title": "Schlangen auf der Jagd",
+  "description": "30 Fragen über Jagdmethoden von Schlangen, Giftzähne, Beutefang und Stoffwechsel. Themen: Nattern vs. Ottern, Verschlingen der Beute, wechselwarmer Stoffwechsel, Giftdrüsen.",
+  "difficulty": "medium",
+  "category": "Biologie - Reptilien",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "standard",
+      "question": "Wie töten Nattern ihre Beute?",
+      "options": [
+        { "text": "Mit Gift" },
+        { "text": "Ohne Gift - durch Umschlingen und Ersticken" },
+        { "text": "Mit ihren scharfen Zähnen" },
+        { "text": "Durch Beißen" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q2",
+      "type": "standard",
+      "question": "Wie töten Ottern ihre Beute?",
+      "options": [
+        { "text": "Durch Umschlingen" },
+        { "text": "Mit Gift" },
+        { "text": "Durch Ersticken" },
+        { "text": "Durch Beißen ohne Gift" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 20
+    },
+    {
+      "id": "q3",
+      "type": "standard",
+      "question": "Wie viele Giftzähne haben Ottern?",
+      "options": [
+        { "text": "Einen" },
+        { "text": "Vier" },
+        { "text": "Zwei" },
+        { "text": "Keine" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 20
+    },
+    {
+      "id": "q4",
+      "type": "standard",
+      "question": "Wo befinden sich die Giftzähne bei Ottern?",
+      "options": [
+        { "text": "Im Oberkiefer" },
+        { "text": "Im Unterkiefer" },
+        { "text": "In beiden Kiefern" },
+        { "text": "Am Schwanz" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 20
+    },
+    {
+      "id": "q5",
+      "type": "standard",
+      "question": "Womit sind die Giftzähne verbunden?",
+      "options": [
+        { "text": "Mit dem Gehirn" },
+        { "text": "Mit einer Giftdrüse" },
+        { "text": "Mit dem Magen" },
+        { "text": "Mit der Lunge" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q6",
+      "type": "standard",
+      "question": "Was macht die Giftschlange, nachdem sie die Beute gebissen hat?",
+      "options": [
+        { "text": "Sie verschlingt sie sofort" },
+        { "text": "Sie flieht" },
+        {
+          "text": "Sie wartet, bis das Tier stirbt, und sucht es dann mit dem Geruchssinn"
+        },
+        { "text": "Sie ruft andere Schlangen" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q7",
+      "type": "standard",
+      "question": "Wie verschlingen Schlangen ihre Beute?",
+      "options": [
+        { "text": "Im Ganzen" },
+        { "text": "In kleinen Stücken" },
+        { "text": "Gekaut" },
+        { "text": "Nur teilweise" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 20
+    },
+    {
+      "id": "q8",
+      "type": "standard",
+      "question": "Warum können Schlangen ihr Maul so weit aufmachen?",
+      "options": [
+        { "text": "Weil sie starke Muskeln haben" },
+        {
+          "text": "Weil die Kieferknochen nur mit elastischen Bändern verbunden sind"
+        },
+        { "text": "Weil sie keine Knochen haben" },
+        { "text": "Weil sie spezielle Gelenke haben" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q9",
+      "type": "standard",
+      "question": "Wie jagen Nattern kleinere Tiere?",
+      "options": [
+        { "text": "Sie packen und verschlucken sie" },
+        { "text": "Sie umschlingen sie" },
+        { "text": "Sie vergiften sie" },
+        { "text": "Sie ersticken sie" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q10",
+      "type": "standard",
+      "question": "Wie viele Windungen macht eine Natter um größere Beutetiere?",
+      "options": [
+        { "text": "Eine" },
+        { "text": "Drei" },
+        { "text": "Zwei" },
+        { "text": "Fünf" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 20
+    },
+    {
+      "id": "q11",
+      "type": "standard",
+      "question": "Warum müssen Schlangen ihre Beute im Ganzen verschlingen?",
+      "options": [
+        { "text": "Weil sie keine Zeit haben" },
+        { "text": "Weil sie keinen Magen haben" },
+        { "text": "Weil sie keine Backenzähne zum Kauen haben" },
+        { "text": "Weil sie faul sind" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q12",
+      "type": "standard",
+      "question": "Wozu dienen die Zähne von Giftschlangen?",
+      "options": [
+        { "text": "Zum Kauen" },
+        { "text": "Zum Zerkleinern der Nahrung" },
+        { "text": "Zum Töten durch Gift injizieren" },
+        { "text": "Zum Graben" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "question": "Schlangen können wochenlang ohne Nahrung auskommen.",
+      "correctAnswer": true,
+      "timeLimit": 15
+    },
+    {
+      "id": "q14",
+      "type": "standard",
+      "question": "Warum brauchen Schlangen weniger Energie als Säugetiere?",
+      "options": [
+        { "text": "Weil sie kleiner sind" },
+        { "text": "Weil sie schlafen" },
+        {
+          "text": "Weil sie wechselwarm sind und ihre Körpertemperatur sich der Umgebung anpasst"
+        },
+        { "text": "Weil sie weniger Muskeln haben" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q15",
+      "type": "standard",
+      "question": "Was ist der Nachteil des wechselwarmen Stoffwechsels?",
+      "options": [
+        {
+          "text": "Sie können nur aktiv sein, wenn die Umgebung warm genug ist"
+        },
+        { "text": "Sie müssen mehr fressen" },
+        { "text": "Sie sind immer müde" },
+        { "text": "Sie können nicht jagen" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q16",
+      "type": "standard",
+      "question": "Was produziert die Giftdrüse?",
+      "options": [
+        { "text": "Speichel" },
+        { "text": "Gift" },
+        { "text": "Verdauungssäfte" },
+        { "text": "Blut" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 20
+    },
+    {
+      "id": "q17",
+      "type": "standard",
+      "question": "Was ist der Giftkanal?",
+      "options": [
+        { "text": "Ein Kanal, der das Gift von der Drüse zum Zahn leitet" },
+        { "text": "Ein Kanal im Magen" },
+        { "text": "Ein Kanal in der Haut" },
+        { "text": "Ein Kanal im Gehirn" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q18",
+      "type": "true-false",
+      "question": "Nattern sind giftig.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q19",
+      "type": "true-false",
+      "question": "Ottern sind giftig.",
+      "correctAnswer": true,
+      "timeLimit": 15
+    },
+    {
+      "id": "q20",
+      "type": "standard",
+      "question": "Wie findet die Otter ihre Beute, nachdem sie sie gebissen hat?",
+      "options": [
+        { "text": "Mit den Augen" },
+        { "text": "Mit dem Geruchssinn" },
+        { "text": "Mit dem Gehör" },
+        { "text": "Mit dem Tastsinn" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q21",
+      "type": "standard",
+      "question": "Fressen Schlangen mehr oder weniger als gleich große Säugetiere?",
+      "options": [
+        { "text": "Viel weniger" },
+        { "text": "Viel mehr" },
+        { "text": "Gleich viel" },
+        { "text": "Doppelt so viel" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q22",
+      "type": "standard",
+      "question": "Was passiert, nachdem eine Natter ihre Beute umschlungen hat?",
+      "options": [
+        { "text": "Sie lässt sofort wieder los" },
+        { "text": "Sie wartet, bis das Tier erstickt ist" },
+        { "text": "Sie beißt mehrmals zu" },
+        { "text": "Sie ruft andere Schlangen" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q23",
+      "type": "standard",
+      "question": "Haben alle Schlangen die gleiche Jagdmethode?",
+      "options": [
+        { "text": "Ja, alle verwenden Gift" },
+        { "text": "Nein, Nattern töten ohne Gift, Ottern mit Gift" },
+        { "text": "Ja, alle umschlingen ihre Beute" },
+        { "text": "Nein, einige fressen nur Pflanzen" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q24",
+      "type": "standard",
+      "question": "Welche Verbindung haben die Kieferknochen bei Schlangen?",
+      "options": [
+        { "text": "Feste Knochenverbindung" },
+        { "text": "Elastische Bänder" },
+        { "text": "Metallverbindung" },
+        { "text": "Keine Verbindung" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q25",
+      "type": "standard",
+      "question": "Wozu brauchen Säugetiere und Vögel viel Energie?",
+      "options": [
+        { "text": "Um Wärme im Körper zu erzeugen" },
+        { "text": "Zum Schlafen" },
+        { "text": "Zum Atmen" },
+        { "text": "Zum Sehen" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q26",
+      "type": "standard",
+      "question": "Was ermöglicht es Schlangen, große Beutetiere zu verschlingen?",
+      "options": [
+        { "text": "Starke Muskeln" },
+        { "text": "Große Zähne" },
+        { "text": "Elastische Bänder zwischen den Kieferknochen" },
+        { "text": "Spezielle Knochen" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q27",
+      "type": "true-false",
+      "question": "Schlangen haben Backenzähne zum Kauen.",
+      "correctAnswer": false,
+      "timeLimit": 15
+    },
+    {
+      "id": "q28",
+      "type": "standard",
+      "question": "Was ist ein Vorteil des sparsameren Stoffwechsels bei Schlangen?",
+      "options": [
+        { "text": "Sie können schneller laufen" },
+        { "text": "Sie können besser sehen" },
+        { "text": "Sie können wochenlang ohne Nahrung auskommen" },
+        { "text": "Sie können höher springen" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q29",
+      "type": "standard",
+      "question": "Wie packt eine Natter größere Beutetiere?",
+      "options": [
+        { "text": "Am Schwanz" },
+        { "text": "Am Hals" },
+        { "text": "Am Kopf" },
+        { "text": "An den Beinen" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q30",
+      "type": "standard",
+      "question": "Welche Aussage über den Stoffwechsel von Schlangen ist RICHTIG?",
+      "options": [
+        { "text": "Sie haben den gleichen Stoffwechsel wie Säugetiere" },
+        { "text": "Sie haben einen sparsameren Stoffwechsel als Säugetiere" },
+        { "text": "Sie haben einen schnelleren Stoffwechsel als Vögel" },
+        { "text": "Sie haben keinen Stoffwechsel" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    }
+  ]
+}
