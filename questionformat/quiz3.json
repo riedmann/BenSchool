@@ -1,0 +1,193 @@
+{
+    "id": "quiz-ts-oop-diagrams-001",
+    "title": "TypeScript OOP: Code & Diagrams",
+    "description": "A 10-question quiz about **OOP concepts** in TypeScript — including inheritance, encapsulation, abstraction, and polymorphism — illustrated with both **TypeScript code** and **UML class diagrams**.",
+    "difficulty": "medium",
+    "category": "TypeScript",
+    "createdAt": "2026-04-09T10:00:00.000Z",
+    "updatedAt": "2026-04-09T10:00:00.000Z",
+    "questions": [
+        {
+            "id": "q1",
+            "type": "standard",
+            "question": "Consider this UML diagram:\n\n```plantuml\n@startuml\nclass Animal {\n  +name: string\n  +speak(): string\n}\nclass Dog {\n  +fetch(): void\n}\nAnimal <|-- Dog\n@enduml\n```\n\nWhat does the arrow `Animal <|-- Dog` represent?",
+            "options": [
+                {
+                    "text": "`Dog` implements the `Animal` interface"
+                },
+                {
+                    "text": "`Animal` inherits from `Dog`"
+                },
+                {
+                    "text": "`Dog` extends (inherits from) `Animal`"
+                },
+                {
+                    "text": "`Dog` and `Animal` are unrelated"
+                }
+            ],
+            "correctAnswers": [
+                2
+            ],
+            "timeLimit": 30
+        },
+        {
+            "id": "q2",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\nabstract class Shape {\n  abstract area(): number;\n\n  describe(): string {\n    return `Area is ${this.area()}`;\n  }\n}\n\nclass Circle extends Shape {\n  constructor(private radius: number) { super(); }\n  area(): number { return Math.PI * this.radius ** 2; }\n}\n```\n\nWhat is the role of `describe()` in `Shape`?",
+            "options": [
+                {
+                    "text": "It is abstract and must be overridden by subclasses"
+                },
+                {
+                    "text": "It is a shared concrete method all subclasses inherit"
+                },
+                {
+                    "text": "It prevents `Circle` from defining `area()`"
+                },
+                {
+                    "text": "It makes `Shape` instantiable"
+                }
+            ],
+            "correctAnswers": [
+                1
+            ],
+            "timeLimit": 35
+        },
+        {
+            "id": "q3",
+            "type": "true-false",
+            "question": "Consider this UML diagram:\n\n```plantuml\n@startuml\ninterface Printable {\n  +print(): void\n}\nclass Invoice\nclass Receipt\nPrintable <|.. Invoice\nPrintable <|.. Receipt\n@enduml\n```\n\nThe dashed arrow `<|..` means both `Invoice` and `Receipt` **implement** the `Printable` interface.",
+            "correctAnswer": true,
+            "timeLimit": 20
+        },
+        {
+            "id": "q4",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\nclass BankAccount {\n  private balance: number = 0;\n\n  deposit(amount: number): void {\n    this.balance += amount;\n  }\n\n  getBalance(): number {\n    return this.balance;\n  }\n}\n```\n\nWhich OOP principle does marking `balance` as `private` demonstrate?",
+            "options": [
+                {
+                    "text": "Inheritance — subclasses can override `balance`"
+                },
+                {
+                    "text": "Polymorphism — `balance` can hold different types"
+                },
+                {
+                    "text": "Abstraction — `balance` is an abstract field"
+                },
+                {
+                    "text": "Encapsulation — internal state is hidden behind methods"
+                }
+            ],
+            "correctAnswers": [
+                3
+            ],
+            "timeLimit": 30
+        },
+        {
+            "id": "q5",
+            "type": "standard",
+            "question": "Consider this UML diagram:\n\n```plantuml\n@startuml\nclass Vehicle {\n  +start(): void\n}\nclass Car {\n  +start(): void\n}\nclass Truck {\n  +start(): void\n}\nVehicle <|-- Car\nVehicle <|-- Truck\n@enduml\n```\n\nBoth `Car` and `Truck` override `start()`. Which OOP concept does this represent?",
+            "options": [
+                {
+                    "text": "Overloading"
+                },
+                {
+                    "text": "Polymorphism — subclasses provide their own version of an inherited method"
+                },
+                {
+                    "text": "Encapsulation"
+                },
+                {
+                    "text": "Composition"
+                }
+            ],
+            "correctAnswers": [
+                1
+            ],
+            "timeLimit": 35
+        },
+        {
+            "id": "q6",
+            "type": "true-false",
+            "question": "Consider this TypeScript code:\n\n```typescript\nabstract class Animal {\n  abstract speak(): string;\n}\n\nconst a = new Animal();\n```\n\nThis code compiles without errors.",
+            "correctAnswer": false,
+            "timeLimit": 20
+        },
+        {
+            "id": "q7",
+            "type": "standard",
+            "question": "Consider this UML diagram:\n\n```plantuml\n@startuml\nclass Engine\nclass Car {\n  -engine: Engine\n}\nCar *-- Engine\n@enduml\n```\n\nWhat does the `*--` (filled diamond) relationship mean?",
+            "options": [
+                {
+                    "text": "`Car` inherits all methods from `Engine`"
+                },
+                {
+                    "text": "`Engine` extends `Car`"
+                },
+                {
+                    "text": "`Car` is composed of an `Engine` — composition relationship"
+                },
+                {
+                    "text": "`Car` and `Engine` implement the same interface"
+                }
+            ],
+            "correctAnswers": [
+                2
+            ],
+            "timeLimit": 35
+        },
+        {
+            "id": "q8",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\ninterface Serializable {\n  serialize(): string;\n}\n\ninterface Loggable {\n  log(): void;\n}\n\nclass Event implements Serializable, Loggable {\n  serialize(): string { return JSON.stringify(this); }\n  log(): void { console.log(this.serialize()); }\n}\n```\n\nWhat is true about `Event`?",
+            "options": [
+                {
+                    "text": "It extends both `Serializable` and `Loggable`"
+                },
+                {
+                    "text": "It must only implement one of the two interfaces"
+                },
+                {
+                    "text": "It satisfies both `Serializable` and `Loggable` contracts"
+                },
+                {
+                    "text": "It inherits a default `serialize()` from `Serializable`"
+                }
+            ],
+            "correctAnswers": [
+                2
+            ],
+            "timeLimit": 30
+        },
+        {
+            "id": "q9",
+            "type": "standard",
+            "question": "Consider this UML diagram:\n\n```plantuml\n@startuml\nabstract class Notification {\n  +{abstract} send(): void\n  +schedule(): void\n}\nclass EmailNotification {\n  +send(): void\n}\nclass SMSNotification {\n  +send(): void\n}\nNotification <|-- EmailNotification\nNotification <|-- SMSNotification\n@enduml\n```\n\nWhich method do subclasses **not** need to override?",
+            "options": [
+                {
+                    "text": "`send()` — it is abstract"
+                },
+                {
+                    "text": "`schedule()` — it is already implemented in the abstract class"
+                },
+                {
+                    "text": "Both `send()` and `schedule()` must be overridden"
+                },
+                {
+                    "text": "Neither — abstract classes have no concrete methods"
+                }
+            ],
+            "correctAnswers": [
+                1
+            ],
+            "timeLimit": 35
+        },
+        {
+            "id": "q10",
+            "type": "true-false",
+            "question": "Consider this TypeScript code:\n\n```typescript\nclass Logger {\n  private static instance: Logger;\n\n  private constructor() {}\n\n  static getInstance(): Logger {\n    if (!Logger.instance) {\n      Logger.instance = new Logger();\n    }\n    return Logger.instance;\n  }\n}\n```\n\nThis is an implementation of the **Singleton** design pattern.",
+            "correctAnswer": true,
+            "timeLimit": 25
+        }
+    ]
+}

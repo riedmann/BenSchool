@@ -1,0 +1,177 @@
+{
+    "id": "quiz-ts-polymorphism-interfaces-001",
+    "title": "TypeScript: Polymorphism & Interfaces",
+    "description": "A 10-question quiz focusing on **polymorphism** and **interfaces** in TypeScript. Each question includes a code snippet.",
+    "difficulty": "medium",
+    "category": "TypeScript",
+    "createdAt": "2026-04-09T10:00:00.000Z",
+    "updatedAt": "2026-04-09T10:00:00.000Z",
+    "questions": [
+        {
+            "id": "q1",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\nclass Animal {\n  speak(): string {\n    return \"some sound\";\n  }\n}\n\nclass Cat extends Animal {\n  speak(): string {\n    return \"meow\";\n  }\n}\n\nconst animal: Animal = new Cat();\nconsole.log(animal.speak());\n```\n\nWhat is printed?",
+            "options": [
+                {
+                    "text": "`\"some sound\"` — the declared type is `Animal`"
+                },
+                {
+                    "text": "A compile-time error"
+                },
+                {
+                    "text": "`\"meow\"` — the overriding method in `Cat` is called"
+                },
+                {
+                    "text": "`undefined`"
+                }
+            ],
+            "correctAnswers": [
+                2
+            ],
+            "timeLimit": 35
+        },
+        {
+            "id": "q2",
+            "type": "true-false",
+            "question": "Consider this TypeScript code:\n\n```typescript\ninterface Flyable {\n  fly(): void;\n}\n\ninterface Swimmable {\n  swim(): void;\n}\n\nclass Duck implements Flyable, Swimmable {\n  fly(): void { console.log(\"flying\"); }\n  swim(): void { console.log(\"swimming\"); }\n}\n```\n\nA TypeScript class can implement more than one interface at the same time.",
+            "correctAnswer": true,
+            "timeLimit": 20
+        },
+        {
+            "id": "q3",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\ninterface Greetable {\n  greet(): string;\n}\n\nclass EnglishGreeter implements Greetable {\n  greet(): string { return \"Hello\"; }\n}\n\nclass SpanishGreeter implements Greetable {\n  greet(): string { return \"Hola\"; }\n}\n\nfunction sayHi(g: Greetable): string {\n  return g.greet();\n}\n\nconsole.log(sayHi(new SpanishGreeter()));\n```\n\nWhat is printed?",
+            "options": [
+                {
+                    "text": "`\"Hello\"`"
+                },
+                {
+                    "text": "`\"Hola\"` — `SpanishGreeter`'s implementation is used"
+                },
+                {
+                    "text": "`undefined`"
+                },
+                {
+                    "text": "A compile-time error"
+                }
+            ],
+            "correctAnswers": [
+                1
+            ],
+            "timeLimit": 30
+        },
+        {
+            "id": "q4",
+            "type": "true-false",
+            "question": "Consider this TypeScript code:\n\n```typescript\ninterface Logger {\n  log(message: string): void {\n    console.log(message);\n  }\n}\n```\n\nThis is valid TypeScript — interfaces can contain method implementations.",
+            "correctAnswer": false,
+            "timeLimit": 20
+        },
+        {
+            "id": "q5",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\ninterface Named {\n  name: string;\n}\n\ninterface Identified extends Named {\n  id: number;\n}\n\nclass User implements Identified {\n  constructor(public id: number, public name: string) {}\n}\n```\n\nWhat must `User` provide to satisfy `Identified`?",
+            "options": [
+                {
+                    "text": "Only `id`, because `Identified` is the direct interface"
+                },
+                {
+                    "text": "Only `name`, because it comes from `Named`"
+                },
+                {
+                    "text": "Nothing — interface members are optional by default"
+                },
+                {
+                    "text": "Both `id` and `name`, because `Identified` extends `Named`"
+                }
+            ],
+            "correctAnswers": [
+                3
+            ],
+            "timeLimit": 35
+        },
+        {
+            "id": "q6",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\ninterface Drawable {\n  draw(): string;\n}\n\nclass Circle implements Drawable {\n  draw(): string { return \"circle\"; }\n}\n\nclass Rectangle implements Drawable {\n  draw(): string { return \"rectangle\"; }\n}\n\nfunction render(shape: Drawable): string {\n  return shape.draw();\n}\n```\n\nWhich object-oriented concept does `render()` demonstrate by accepting any `Drawable`?",
+            "options": [
+                {
+                    "text": "Polymorphism — one function works with any object satisfying the interface"
+                },
+                {
+                    "text": "Encapsulation"
+                },
+                {
+                    "text": "Abstraction through abstract classes"
+                },
+                {
+                    "text": "Generics"
+                }
+            ],
+            "correctAnswers": [
+                0
+            ],
+            "timeLimit": 35
+        },
+        {
+            "id": "q7",
+            "type": "true-false",
+            "question": "Consider this TypeScript code:\n\n```typescript\ninterface Printable {\n  print(): void;\n}\n\nclass Report implements Printable {\n  print(): void { console.log(\"Printing report\"); }\n}\n\nconst item: Printable = new Report();\n```\n\nAssigning a `Report` instance to a variable of type `Printable` is valid.",
+            "correctAnswer": true,
+            "timeLimit": 20
+        },
+        {
+            "id": "q8",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\nclass Vehicle {\n  describe(): string { return \"vehicle\"; }\n}\n\nclass Truck extends Vehicle {\n  describe(): string { return \"truck\"; }\n}\n\nclass Motorcycle extends Vehicle {\n  describe(): string { return \"motorcycle\"; }\n}\n\nconst fleet: Vehicle[] = [new Truck(), new Motorcycle()];\nfleet.forEach(v => console.log(v.describe()));\n```\n\nWhat is printed?",
+            "options": [
+                {
+                    "text": "`\"vehicle\"` twice"
+                },
+                {
+                    "text": "`\"truck\"` then `\"vehicle\"`"
+                },
+                {
+                    "text": "`\"truck\"` then `\"motorcycle\"` — each overriding method is called"
+                },
+                {
+                    "text": "A compile-time error"
+                }
+            ],
+            "correctAnswers": [
+                2
+            ],
+            "timeLimit": 35
+        },
+        {
+            "id": "q9",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\ninterface Serializable {\n  serialize(): string;\n}\n\nclass Config implements Serializable {\n  constructor(private data: string) {}\n  serialize(): string {\n    return JSON.stringify(this.data);\n  }\n}\n\nconst c = new Config(\"settings\");\nconsole.log(typeof c.serialize());\n```\n\nWhat is printed?",
+            "options": [
+                {
+                    "text": "`\"object\"`"
+                },
+                {
+                    "text": "`\"string\"` — `serialize()` returns a `string`"
+                },
+                {
+                    "text": "`\"undefined\"`"
+                },
+                {
+                    "text": "A compile-time error"
+                }
+            ],
+            "correctAnswers": [
+                1
+            ],
+            "timeLimit": 30
+        },
+        {
+            "id": "q10",
+            "type": "true-false",
+            "question": "Consider this TypeScript code:\n\n```typescript\nabstract class Shape {\n  abstract area(): number;\n}\n\nconst s = new Shape();\n```\n\nThis code compiles successfully — you can instantiate an abstract class directly.",
+            "correctAnswer": false,
+            "timeLimit": 20
+        }
+    ]
+}

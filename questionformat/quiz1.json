@@ -1,0 +1,194 @@
+{
+    "id": "quiz-ts-oo-code-001",
+    "title": "TypeScript with Code Snippets Quiz",
+    "description": "A 10-question quiz about TypeScript, object orientation, interfaces, instance variables, and polymorphism. Each question references a TypeScript code snippet.",
+    "questions": [
+        {
+            "id": "q1",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\ninterface Animal {\n  name: string;\n  speak(): string;\n}\n```\n\nWhat does the interface `Animal` define?",
+            "options": [
+                {
+                    "text": "A private variable named `Animal`"
+                },
+                {
+                    "text": "A structure requiring a `name` property and a `speak` method"
+                },
+                {
+                    "text": "A runtime object that is automatically created"
+                },
+                {
+                    "text": "A class with implemented behavior"
+                }
+            ],
+            "correctAnswers": [
+                1
+            ],
+            "timeLimit": 35
+        },
+        {
+            "id": "q2",
+            "type": "true-false",
+            "question": "Consider this TypeScript code:\n\n```typescript\nclass Car {\n  brand: string;\n\n  constructor(brand: string) {\n    this.brand = brand;\n  }\n}\n```\n\n`brand` is an instance variable.",
+            "correctAnswer": true,
+            "timeLimit": 20
+        },
+        {
+            "id": "q3",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\nclass Animal {\n  move(): string {\n    return \"moving\";\n  }\n}\n\nclass Dog extends Animal {\n  bark(): string {\n    return \"woof\";\n  }\n}\n```\n\nWhy can `Dog` use the `move()` method?",
+            "options": [
+                {
+                    "text": "Because `Dog` is an interface"
+                },
+                {
+                    "text": "Because every TypeScript class always has `move()`"
+                },
+                {
+                    "text": "Because `Dog` extends `Animal`"
+                },
+                {
+                    "text": "Because `bark()` automatically creates `move()`"
+                }
+            ],
+            "correctAnswers": [
+                2
+            ],
+            "timeLimit": 30
+        },
+        {
+            "id": "q4",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\ninterface Flyable {\n  fly(): string;\n}\n\nclass Bird implements Flyable {\n  fly(): string {\n    return \"flying\";\n  }\n}\n```\n\nWhat does `implements Flyable` mean here?",
+            "options": [
+                {
+                    "text": "The method `fly()` is optional"
+                },
+                {
+                    "text": "The class becomes private"
+                },
+                {
+                    "text": "The class must provide the methods required by the interface"
+                },
+                {
+                    "text": "The interface inherits from the class"
+                }
+            ],
+            "correctAnswers": [
+                2
+            ],
+            "timeLimit": 35
+        },
+        {
+            "id": "q5",
+            "type": "true-false",
+            "question": "Consider this TypeScript code:\n\n```typescript\nclass Counter {\n  count = 0;\n}\n\nconst a = new Counter();\nconst b = new Counter();\na.count = 5;\n```\n\nAfter this code runs, `b.count` is still `0`.",
+            "correctAnswer": true,
+            "timeLimit": 20
+        },
+        {
+            "id": "q6",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\nclass Shape {\n  draw(): string {\n    return \"shape\";\n  }\n}\n\nclass Circle extends Shape {\n  draw(): string {\n    return \"circle\";\n  }\n}\n\nclass Square extends Shape {\n  draw(): string {\n    return \"square\";\n  }\n}\n```\n\nWhich object-oriented concept is shown by `Circle` and `Square` providing different versions of `draw()`?",
+            "options": [
+                {
+                    "text": "Polymorphism"
+                },
+                {
+                    "text": "Encapsulation"
+                },
+                {
+                    "text": "Casting"
+                },
+                {
+                    "text": "Overloading of variables"
+                }
+            ],
+            "correctAnswers": [
+                0
+            ],
+            "timeLimit": 35
+        },
+        {
+            "id": "q7",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\ninterface Person {\n  firstName: string;\n  lastName: string;\n}\n\nconst user: Person = {\n  firstName: \"Ada\",\n  lastName: \"Lovelace\"\n};\n```\n\nWhy is this assignment valid?",
+            "options": [
+                {
+                    "text": "Because `Person` is a built-in JavaScript class"
+                },
+                {
+                    "text": "Because `user` matches the structure required by `Person`"
+                },
+                {
+                    "text": "Because TypeScript ignores interface definitions"
+                },
+                {
+                    "text": "Because interfaces only check methods, never properties"
+                }
+            ],
+            "correctAnswers": [
+                1
+            ],
+            "timeLimit": 30
+        },
+        {
+            "id": "q8",
+            "type": "true-false",
+            "question": "Consider this TypeScript code:\n\n```typescript\nclass Student {\n  constructor(public name: string) {}\n}\n```\n\nThe `public name: string` in the constructor creates and initializes an instance variable.",
+            "correctAnswer": true,
+            "timeLimit": 20
+        },
+        {
+            "id": "q9",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\ninterface Logger {\n  log(message: string): void;\n}\n\nclass ConsoleLogger implements Logger {\n  log(message: string): void {\n    console.log(message);\n  }\n}\n\nclass FileLogger implements Logger {\n  log(message: string): void {\n    // write message to file\n  }\n}\n```\n\nWhy is this a good example of programming with interfaces?",
+            "options": [
+                {
+                    "text": "Because interfaces automatically save data to files"
+                },
+                {
+                    "text": "Because only one class can implement an interface"
+                },
+                {
+                    "text": "Because the interface forces both classes to expose the same `log` method"
+                },
+                {
+                    "text": "Because interfaces make both classes identical at runtime"
+                }
+            ],
+            "correctAnswers": [
+                2
+            ],
+            "timeLimit": 35
+        },
+        {
+            "id": "q10",
+            "type": "standard",
+            "question": "Consider this TypeScript code:\n\n```typescript\nclass Animal {\n  speak(): string {\n    return \"some sound\";\n  }\n}\n\nclass Dog extends Animal {\n  speak(): string {\n    return \"woof\";\n  }\n}\n\nfunction makeItSpeak(animal: Animal): string {\n  return animal.speak();\n}\n```\n\nWhat happens when `makeItSpeak(new Dog())` is called?",
+            "options": [
+                {
+                    "text": "It causes a syntax error"
+                },
+                {
+                    "text": "It returns `undefined` because `Dog` cannot be used as `Animal`"
+                },
+                {
+                    "text": "It returns `woof` because the overridden method in `Dog` is used"
+                },
+                {
+                    "text": "It returns `some sound` because the parameter type is `Animal`"
+                }
+            ],
+            "correctAnswers": [
+                2
+            ],
+            "timeLimit": 35
+        }
+    ],
+    "difficulty": "medium",
+    "category": "TypeScript",
+    "createdAt": "2026-04-09T10:00:00.000Z",
+    "updatedAt": "2026-04-09T10:00:00.000Z",
+    "creatorDisplayName": "ChatGPT"
+}
