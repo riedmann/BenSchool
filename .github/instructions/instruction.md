@@ -69,8 +69,9 @@ Nach dem Erstellen der Markdown-Datei generiere automatisch Trainingsfragen, um 
 1. **Fragenerstellungsstrategie**
    - Lies und verstehe den Markdown-Inhalt gründlich
    - Identifiziere Schlüsselkonzepte, Definitionen und wichtige Details
-   - Generiere 30 Fragen, die das Material umfassend abdecken
+   - Generiere 15 Fragen, die das Material umfassend abdecken
    - Steigere von einfachem Abrufen zu tieferem Verständnis
+   - **WICHTIG**: Inkludiere IMMER offene Fragen (Essay-Typ), bei denen Schüler etwas erklären müssen
 
 2. **Fragetypen und Formate**
 
@@ -106,13 +107,18 @@ d) Option 4
 **Erklärung:** Kurze Erklärung.
 
 ---
+
+## Frage 3
+**Offene Frage:** Erkläre, was speziell an [Konzept] ist.
+
+**Musterantwort:** [Detaillierte Erklärung für die Lehrkraft]
+
+---
 ```
 
-Speichere als: `subject/[fachname]/questions/[thema]-fragen.md`
 
-#### Format B: JSON-Quiz für Superkahoot (für Import)
 
-Erstelle Fragen im JSON-Format für den Import in Superkahoot:
+Speichere als: `subject/[fachname]/questions/[thema]-fragen.. **WICHTIG**: Inkludiere IMMER mindestens 2-3 Essay-Fragen pro Quiz!
 
 ```json
 {
@@ -141,10 +147,34 @@ Erstelle Fragen im JSON-Format für den Import in Superkahoot:
       "question": "[Aussage]",
       "correctAnswer": true,
       "timeLimit": 20
+    },
+    {
+      "id": "q3",
+      "type": "essay",
+      "question": "Erkläre, was speziell an [Konzept] ist.",
+      "sampleAnswer": "Detaillierte Musterantwort für die Lehrkraft...",
+      "timeLimit": 90
     }
   ]
 }
 ```
+
+**Fragetypen im Detail:**
+- **standard**: Multiple-Choice mit mehreren Optionen (für Fakten und Verständnis)
+- **true-false**: Richtig/Falsch-Fragen (für schnelle Konzeptprüfung)
+- **essay**: Offene Fragen, bei denen Schüler etwas erklären müssen (für tiefes Verständnis)
+
+**Essay-Fragen Beispiele:**
+- "Erkläre, was speziell an [Feature/Anpassung] ist"
+- "Beschreibe, wie [Prozess/Mechanismus] funktioniert"
+- "Was sind die wichtigsten Unterschiede zwischen [A] und [B]?"
+- "Erkläre, warum [Phänomen] eine besondere Anpassung d, **Essay-Fragen (Pflicht!)**
+   - **Inkludiere mindestens 2-3 Essay-Fragen pro Quiz**, bei denen Schüler etwas erklären müssen
+   - Schreibe klare, eindeutige Fragen
+   - Gib kurze Erklärungen für richtige Antworten (nur bei Markdown-Format)
+   - Stelle sicher, dass Fragen Verständnis testen, nicht nur Auswendiglernen
+   - Variiere die Position der richtigen Antworten (bei JSON)
+   - **Essay-Fragen sollten tieferes Verständnis testen**: "Erkläre...", "Beschreibe...", "Was ist speziell an..."
 
 **WICHTIGE JSON-Regeln:**
 - Alle Keys und String-Werte in doppelten Anführungszeichen

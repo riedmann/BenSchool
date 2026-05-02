@@ -14,16 +14,16 @@
           "text": "Sie haben keine Federn"
         },
         {
-          "text": "Sie haben zu kleine Flügel"
+          "text": "Sie haben einen großen Körper und relativ kurze Flügel"
         },
         {
-          "text": "Sie haben einen großen Körper und relativ kurze Flügel"
+          "text": "Sie haben zu kleine Flügel"
         },
         {
           "text": "Sie haben keine Muskeln"
         }
       ],
-      "correctAnswers": [2],
+      "correctAnswers": [1],
       "timeLimit": 25
     },
     {
@@ -45,38 +45,17 @@
           "text": "Vogelknochen sind grün"
         },
         {
-          "text": "Säugetierknochen sind gefüllt mit Knochenmark, Vogelknochen enthalten Luftkammern"
+          "text": "Säugetierknochen sind weicher"
         },
         {
-          "text": "Säugetierknochen sind weicher"
+          "text": "Säugetierknochen sind gefüllt mit Knochenmark, Vogelknochen enthalten Luftkammern"
         }
       ],
-      "correctAnswers": [2],
+      "correctAnswers": [3],
       "timeLimit": 30
     },
     {
       "id": "q4",
-      "type": "standard",
-      "question": "Warum geben Vögel ihren Kot regelmäßig ab?",
-      "options": [
-        {
-          "text": "Um ihr Gefieder zu reinigen"
-        },
-        {
-          "text": "Um Gewicht zu sparen und leichter zu sein"
-        },
-        {
-          "text": "Um andere Vögel anzulocken"
-        },
-        {
-          "text": "Um ihr Nest zu markieren"
-        }
-      ],
-      "correctAnswers": [1],
-      "timeLimit": 25
-    },
-    {
-      "id": "q5",
       "type": "standard",
       "question": "Was passiert beim Abwärtsschlag der Flügel?",
       "options": [
@@ -84,35 +63,35 @@
           "text": "Der Vogel bewegt sich nach unten"
         },
         {
-          "text": "Die Luft wird nach unten gedrückt und der Vogel bewegt sich nach oben"
+          "text": "Der Vogel landet"
         },
         {
-          "text": "Der Vogel landet"
+          "text": "Die Luft wird nach unten gedrückt und der Vogel bewegt sich nach oben"
         },
         {
           "text": "Der Vogel ruht sich aus"
         }
       ],
-      "correctAnswers": [1],
+      "correctAnswers": [2],
       "timeLimit": 30
     },
     {
-      "id": "q6",
+      "id": "q5",
       "type": "true-false",
       "question": "Die Lunge der Vögel ist so gebaut, dass sie ständig Sauerstoff aus der Luft aufnimmt.",
       "correctAnswer": true,
       "timeLimit": 20
     },
     {
-      "id": "q7",
+      "id": "q6",
       "type": "standard",
       "question": "Welche besondere Struktur haben Vögel in ihren hohlen Knochen?",
       "options": [
         {
-          "text": "Muskeln"
+          "text": "Luftsäcke"
         },
         {
-          "text": "Luftsäcke"
+          "text": "Muskeln"
         },
         {
           "text": "Blutgefäße"
@@ -121,8 +100,22 @@
           "text": "Federn"
         }
       ],
-      "correctAnswers": [1],
+      "correctAnswers": [0],
       "timeLimit": 25
+    },
+    {
+      "id": "q7",
+      "type": "essay",
+      "question": "Erkläre, welche Anpassungen Vögel zum Fliegen haben und warum diese wichtig sind.",
+      "sampleAnswer": "Vögel haben mehrere Anpassungen zum Fliegen: Sie haben leichte Knochen mit Luftkammern statt schwerem Knochenmark, geben ihren Kot regelmäßig ab um Gewicht zu sparen, haben keine schweren Zähne, und haben ein spezielles Atmungssystem mit Luftsäcken in den hohlen Knochen. Diese Luftsäcke ermöglichen es, dass die Lunge ständig Sauerstoff aufnimmt - sowohl beim Ein- als auch beim Ausatmen. Diese Anpassungen sind wichtig, weil Vögel viel Energie zum Fliegen brauchen und dabei möglichst leicht sein müssen.",
+      "timeLimit": 120
+    },
+    {
+      "id": "q8",
+      "type": "essay",
+      "question": "Beschreibe, wie die Flugbewegung bei Vögeln funktioniert und welche Rolle die Muskeln spielen.",
+      "sampleAnswer": "Der Vogel bewegt seine Flügel mit seinen starken Brustmuskeln auf und ab. Beim Abwärtsschlag wird die Luft nach unten gedrückt und der Vogel bewegt sich nach oben - dabei bilden Luft und Flügel eine Tragefläche, ähnlich wie bei einem Flugzeug. Beim Aufwärtsschlag winkelt der Vogel die Flügel an und zieht sie nach oben. Obwohl Vögel leicht sind, brauchen sie viel Energie zum Fliegen, die sie aus fettreicher Nahrung bekommen. Um diese Energie freizusetzen, brauchen die Muskeln viel Sauerstoff.",
+      "timeLimit": 120
     }
   ]
 }

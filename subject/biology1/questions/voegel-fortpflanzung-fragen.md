@@ -1,453 +1,93 @@
-# Trainingsfragen: Vögel - Wirbeltiere mit Federn
+# Trainingsfragen: Vögel - Fortpflanzung
 
 ## Frage 1
-**Was sind Vögel?**
+**Frage:** Wie wird das Ei der Henne befruchtet?
 
 **Optionen:**
-- A) Wirbeltiere mit Fell
-- B) Wirbeltiere mit Federn
-- C) Wirbellose mit Federn
-- D) Säugetiere
+a) Automatisch im Körper der Henne
+b) Der Hahn berührt mit seiner Kloake die Kloake der Henne
+c) Durch das Futter
+d) Durch Wärme
 
-**Richtige Antwort:** B) Wirbeltiere mit Federn
+**Richtige Antwort:** b
 
-**Erklärung:** Vögel sind Wirbeltiere, die mit Federn bedeckt sind.
+**Erklärung:** Der Hahn springt auf die Henne und berührt mit seiner Kloake ihre Kloake. Die Samenzelle des Hahns paart sich mit der Eizelle der Henne. Die Befruchtung muss erfolgen, bevor die Eizelle ihre Hüllen (Eiklar und Schale) erhält.
 
 ---
 
 ## Frage 2
-**Wie nennt man das männliche Huhn?**
+**Richtig oder Falsch:** Unbefruchtete Eier können sich zu Küken entwickeln.
 
-**Optionen:**
-- A) Hahn
-- B) Gockel
-- C) Männchen
-- D) Alle Antworten sind richtig
+**Richtige Antwort:** Falsch
 
-**Richtige Antwort:** D) Alle Antworten sind richtig
-
-**Erklärung:** Das männliche Huhn nennt man Hahn, Gockel oder einfach Männchen.
+**Erklärung:** Ohne Befruchtung kann aus einem Hühnerei kein Küken entstehen. Nur wenn die Eizelle mit einer männlichen Samenzelle befruchtet wurde, bildet sich ein Embryo, der sich zum Küken entwickeln kann.
 
 ---
 
 ## Frage 3
-**Wo wird die Eizelle bei der Henne gebildet?**
+**Frage:** In welcher Reihenfolge entsteht das Hühnerei?
 
 **Optionen:**
-- A) Im Eileiter
-- B) Im Eierstock
-- C) In der Kloake
-- D) Im Schnabel
+a) Eizelle → Eidotter → Eiklar → Schalenhaut → Kalkschale
+b) Eiklar → Eidotter → Kalkschale
+c) Kalkschale → Eiklar → Eidotter
+d) Eidotter → Kalkschale → Eiklar
 
-**Richtige Antwort:** B) Im Eierstock
+**Richtige Antwort:** a
 
-**Erklärung:** Im Eierstock der Henne wird eine Eizelle reif.
+**Erklärung:** Im Eierstock wird die Eizelle reif und wandert in den Eileiter. Dort entsteht zuerst der nährstoffreiche Eidotter, dann das Eiklar (Eiweiß) und eine dünne Schalenhaut. Am Ende des Eierleiters wird das Ei mit einer dicken Kalkschale versehen.
 
 ---
 
 ## Frage 4
-**Was entsteht zuerst im Eileiter?**
+**Frage:** Wie lange brütet eine Henne, bis die Küken schlüpfen?
 
 **Optionen:**
-- A) Die Kalkschale
-- B) Das Eiklar
-- C) Der Eidotter
-- D) Die Schalenhaut
+a) 7 Tage
+b) 14 Tage
+c) 21 Tage
+d) 30 Tage
 
-**Richtige Antwort:** C) Der Eidotter
+**Richtige Antwort:** c
 
-**Erklärung:** Im Eileiter entsteht zuerst die nährstoffreiche Eidotter.
+**Erklärung:** Die Henne brütet 21 Tage lang. Sie sitzt Tag und Nacht auf den Eiern und hält sie warm. In dieser Zeit entwickelt sich in jedem befruchteten Ei ein Küken, das sich von Dotter und Eiklar ernährt.
 
 ---
 
 ## Frage 5
-**Was wird am Ende des Eileiters hinzugefügt?**
+**Richtig oder Falsch:** Küken sind Nesthocker und müssen längere Zeit im Nest gefüttert werden.
 
-**Optionen:**
-- A) Der Dotter
-- B) Das Eiklar
-- C) Die Kalkschale
-- D) Die Keimscheibe
+**Richtige Antwort:** Falsch
 
-**Richtige Antwort:** C) Die Kalkschale
-
-**Erklärung:** Am Ende des Eileiters liegt die Schleimdrüse, die das Ei mit einer dicken Kalkschale versieht.
+**Erklärung:** Küken sind Nestflüchter. Sie können schon nach kurzer Zeit hinter der Henne herlaufen und selbstständig Futter suchen. Sie müssen nicht im Nest gefüttert werden.
 
 ---
 
 ## Frage 6
-**Wie viele Eier legt eine Henne, bevor sie zu brüten beginnt?**
+**Frage:** Warum legen Hennen am Bauernhof immer weiter Eier, auch wenn sie schon viele gelegt haben?
 
 **Optionen:**
-- A) 5-8
-- B) 10-20
-- C) 30-40
-- D) 50-60
+a) Weil sie krank sind
+b) Weil man ihnen die Eier wegnimmt
+c) Weil sie zu viel fressen
+d) Weil der Hahn sie dazu zwingt
 
-**Richtige Antwort:** B) 10-20
+**Richtige Antwort:** b
 
-**Erklärung:** Die Henne legt so lange Eier, bis sie 10 bis 20 Eier im Nest hat. Dann beginnt sie zu brüten.
+**Erklärung:** Hennen legen normalerweise 10-20 Eier und beginnen dann zu brüten. Wenn man die Eier aber regelmäßig aus dem Nest nimmt, erreicht die Henne nie die "volle" Anzahl und legt deshalb immer weiter Eier nach.
 
 ---
 
 ## Frage 7
-**Wie lange dauert es, bis Küken aus dem Ei schlüpfen?**
+**Offene Frage:** Erkläre, wie sich ein Küken im Ei entwickelt und wovon es sich ernährt.
 
-**Optionen:**
-- A) 7 Tage
-- B) 14 Tage
-- C) 21 Tage
-- D) 30 Tage
-
-**Richtige Antwort:** C) 21 Tage
-
-**Erklärung:** Am 21. Tag schlüpfen die Küken aus dem Ei.
+**Musterantwort:** Nach der Befruchtung der Eizelle beginnt sich in einem Ei ein Embryo zu entwickeln. Die Henne legt 10-20 Eier ins Nest und beginnt dann zu brüten - sie sitzt 21 Tage lang Tag und Nacht auf den Eiern und hält sie warm. Diese Wärme ist notwendig für die Entwicklung. Das sich entwickelnde Küken ernährt sich während dieser Zeit von den Nährstoffen im Ei - dem Eidotter (sehr nährstoffreich) und dem Eiklar (Eiweiß). Die Hagelschnur hält den Dotter dabei in der Mitte des Eies. Nach 21 Tagen ist das Küken fertig entwickelt und schlüpft aus dem Ei. Als Nestflüchter kann es dann sofort hinter der Henne herlaufen und selbst Futter suchen.
 
 ---
 
 ## Frage 8
-**Was bedeutet "brüten"?**
+**Offene Frage:** Beschreibe den Aufbau eines Hühnereies und erkläre die Funktion der verschiedenen Teile.
 
-**Optionen:**
-- A) Eier legen
-- B) Auf den Eiern sitzen und sie warm halten
-- C) Futter suchen
-- D) Ein Nest bauen
-
-**Richtige Antwort:** B) Auf den Eiern sitzen und sie warm halten
-
-**Erklärung:** Brüten bedeutet, dass die Henne Tag und Nacht auf den Eiern sitzt und sie warm hält.
+**Musterantwort:** Ein Hühnerei besteht aus mehreren wichtigen Teilen: Die harte Kalkschale umgibt und schützt das Ei von außen. Darunter liegt die Schalenhaut. Zwischen den zwei Schalenhäuten befindet sich die Luftkammer, die Luft für das entwickelnde Küken enthält. Im Inneren liegt der Eidotter (Dotter), der von der Dotterhaut umgeben ist. Auf dem Dotter befindet sich die Keimscheibe, aus der sich das Küken entwickelt. Der Dotter ist sehr nährstoffreich und dient als Hauptnahrungsquelle für den Embryo. Um den Dotter herum befindet sich das Eiklar (Eiweiß), das zusätzliche Nährstoffe und Wasser liefert. Die Hagelschnur hält den Dotter in der Mitte des Eies und verhindert, dass er sich beim Drehen des Eies verschiebt.
 
 ---
-
-## Frage 9
-**Wovon ernährt sich das Küken im Ei?**
-
-**Optionen:**
-- A) Von der Schale
-- B) Von Dotter und Eiklar
-- C) Von Luft
-- D) Von der Hagelschnur
-
-**Richtige Antwort:** B) Von Dotter und Eiklar
-
-**Erklärung:** Das Küken ernährt sich im Ei von Dotter und Eiklar.
-
----
-
-## Frage 10
-**Was sind Nestflüchter?**
-
-**Optionen:**
-- A) Tiere, die sofort nach dem Schlüpfen laufen können
-- B) Tiere, die lange im Nest bleiben
-- C) Tiere, die nicht laufen können
-- D) Tiere ohne Federn
-
-**Richtige Antwort:** A) Tiere, die sofort nach dem Schlüpfen laufen können
-
-**Erklärung:** Küken sind Nestflüchter - sie können schon nach kurzer Zeit laufen und Futter suchen.
-
----
-
-## Frage 11
-**Was hält den Dotter in der Mitte des Eies?**
-
-**Optionen:**
-- A) Die Luftkammer
-- B) Die Hagelschnur
-- C) Die Kalkschale
-- D) Das Eiklar
-
-**Richtige Antwort:** B) Die Hagelschnur
-
-**Erklärung:** Die Hagelschnur hält den Dotter in der Mitte des Eies.
-
----
-
-## Frage 12
-**Aus welchem Teil des Eies entwickelt sich das Küken?**
-
-**Optionen:**
-- A) Aus dem Dotter
-- B) Aus dem Eiklar
-- C) Aus der Keimscheibe
-- D) Aus der Schale
-
-**Richtige Antwort:** C) Aus der Keimscheibe
-
-**Erklärung:** Aus der Keimscheibe entwickelt sich das Küken.
-
----
-
-## Frage 13
-**Wo befindet sich die Luftkammer im Ei?**
-
-**Optionen:**
-- A) In der Mitte
-- B) Zwischen den Schalenhäuten
-- C) Im Dotter
-- D) Außerhalb des Eies
-
-**Richtige Antwort:** B) Zwischen den Schalenhäuten
-
-**Erklärung:** Die Luftkammer ist ein Luftraum zwischen den Schalenhäuten.
-
----
-
-## Frage 14
-**Woraus besteht die äußere Schale des Eies?**
-
-**Optionen:**
-- A) Aus Eiweiß
-- B) Aus Kalk
-- C) Aus Plastik
-- D) Aus Fett
-
-**Richtige Antwort:** B) Aus Kalk
-
-**Erklärung:** Die äußere Schale ist eine Kalkschale.
-
----
-
-## Frage 15
-**Was umhüllt den Dotter?**
-
-**Optionen:**
-- A) Die Kalkschale
-- B) Die Dotterhaut
-- C) Das Eiklar
-- D) Die Luftkammer
-
-**Richtige Antwort:** B) Die Dotterhaut
-
-**Erklärung:** Die Dotterhaut umhüllt den Dotter.
-
----
-
-## Frage 16
-**Wie paaren sich Hahn und Henne?**
-
-**Optionen:**
-- A) Der Hahn berührt mit seiner Kloake die Kloake der Henne
-- B) Durch Küssen
-- C) Durch Berühren der Schnäbel
-- D) Durch Berühren der Flügel
-
-**Richtige Antwort:** A) Der Hahn berührt mit seiner Kloake die Kloake der Henne
-
-**Erklärung:** Der Hahn springt auf die Henne und berührt mit seiner Kloake ihre Kloake.
-
----
-
-## Frage 17
-**Wann muss die Eizelle befruchtet werden?**
-
-**Optionen:**
-- A) Nach der Schalenbildung
-- B) Bevor sie ihre Hüllen (Eiklar und Schale) erhält
-- C) Nach dem Legen
-- D) Während des Brütens
-
-**Richtige Antwort:** B) Bevor sie ihre Hüllen (Eiklar und Schale) erhält
-
-**Erklärung:** Die Eizelle muss befruchtet werden, bevor sie ihre Hüllen (Eiklar und Schale) erhält.
-
----
-
-## Frage 18
-**Warum legen Hennen in der Landwirtschaft kontinuierlich Eier?**
-
-**Optionen:**
-- A) Weil sie besonders produktiv sind
-- B) Weil man ihnen die Eier wegnimmt
-- C) Weil sie nie müde werden
-- D) Weil sie keine Brutinstinkte haben
-
-**Richtige Antwort:** B) Weil man ihnen die Eier wegnimmt
-
-**Erklärung:** Wenn man die Eier regelmäßig wegnimmt, erreicht die Henne nie die volle Anzahl und legt deshalb weiter Eier.
-
----
-
-## Frage 19
-**Was ist die Kloake?**
-
-**Optionen:**
-- A) Ein Körperteil zum Fliegen
-- B) Ein Ausgang für Eier und Ausscheidungen
-- C) Ein Teil des Schnabels
-- D) Ein Teil der Federn
-
-**Richtige Antwort:** B) Ein Ausgang für Eier und Ausscheidungen
-
-**Erklärung:** Die Kloake ist der Ausgang für Eier und Ausscheidungen.
-
----
-
-## Frage 20
-**Welcher Teil des Huhns ist rot und befindet sich auf dem Kopf?**
-
-**Optionen:**
-- A) Kehllappen
-- B) Kamm
-- C) Schnabel
-- D) Federn
-
-**Richtige Antwort:** B) Kamm
-
-**Erklärung:** Der Kamm ist ein roter Hautlappen auf dem Kopf des Huhns.
-
----
-
-## Frage 21
-**Was sind Kehllappen?**
-
-**Optionen:**
-- A) Federn am Hals
-- B) Rote Hautlappen unter dem Schnabel
-- C) Schuppen auf den Beinen
-- D) Teile des Schnabels
-
-**Richtige Antwort:** B) Rote Hautlappen unter dem Schnabel
-
-**Erklärung:** Kehllappen sind rote Hautlappen, die unter dem Schnabel hängen.
-
----
-
-## Frage 22
-**Können Küken sofort nach dem Schlüpfen selbstständig Futter suchen?**
-
-**Optionen:**
-- A) Nein, niemals
-- B) Ja, als Nestflüchter können sie das
-- C) Nur nach einer Woche
-- D) Nur wenn die Mutter es ihnen zeigt
-
-**Richtige Antwort:** B) Ja, als Nestflüchter können sie das
-
-**Erklärung:** Küken sind Nestflüchter und können schon nach kurzer Zeit selbstständig Futter suchen.
-
----
-
-## Frage 23
-**Was ist die Funktion des Eiklars?**
-
-**Optionen:**
-- A) Schutz und Nahrung für den Embryo
-- B) Nur Dekoration
-- C) Bildung der Schale
-- D) Atmung
-
-**Richtige Antwort:** A) Schutz und Nahrung für den Embryo
-
-**Erklärung:** Das Eiklar (Eiweiß) dient als Nahrung und Schutz für das sich entwickelnde Küken.
-
----
-
-## Frage 24
-**Welcher Teil des Eies ist am nährstoffreichsten?**
-
-**Optionen:**
-- A) Das Eiklar
-- B) Die Schale
-- C) Der Eidotter
-- D) Die Luftkammer
-
-**Richtige Antwort:** C) Der Eidotter
-
-**Erklärung:** Der Eidotter ist nährstoffreich und die Hauptnahrungsquelle für den Embryo.
-
----
-
-## Frage 25
-**Wie lange sitzt die Henne auf den Eiern?**
-
-**Optionen:**
-- A) Nur nachts
-- B) Nur tagsüber
-- C) Tag und Nacht
-- D) Gar nicht
-
-**Richtige Antwort:** C) Tag und Nacht
-
-**Erklärung:** Die Henne sitzt Tag und Nacht auf den Eiern, um sie warm zu halten.
-
----
-
-## Frage 26
-**Was passiert im Ei während der Brutzeit?**
-
-**Optionen:**
-- A) Nichts
-- B) Es entwickelt sich ein Küken
-- C) Das Ei wird größer
-- D) Das Ei wird härter
-
-**Richtige Antwort:** B) Es entwickelt sich ein Küken
-
-**Erklärung:** Während der Brutzeit entwickelt sich in jedem befruchteten Ei ein Küken.
-
----
-
-## Frage 27
-**Wozu dient die Schalenhaut?**
-
-**Optionen:**
-- A) Zum Schutz des Eies von innen
-- B) Zum Fliegen
-- C) Zum Schwimmen
-- D) Zum Fressen
-
-**Richtige Antwort:** A) Zum Schutz des Eies von innen
-
-**Erklärung:** Die Schalenhaut schützt das Ei von innen.
-
----
-
-## Frage 28
-**Haben alle Vögel Federn?**
-
-**Optionen:**
-- A) Nein
-- B) Ja
-- C) Nur die Männchen
-- D) Nur die Weibchen
-
-**Richtige Antwort:** B) Ja
-
-**Erklärung:** Alle Vögel haben Federn - das ist ein charakteristisches Merkmal von Vögeln.
-
----
-
-## Frage 29
-**Was ist die Hauptfunktion der Kalkschale?**
-
-**Optionen:**
-- A) Nahrung für das Küken
-- B) Schutz des Eies von außen
-- C) Atmung
-- D) Fortbewegung
-
-**Richtige Antwort:** B) Schutz des Eies von außen
-
-**Erklärung:** Die Kalkschale ist die harte äußere Schale, die das Ei von außen schützt.
-
----
-
-## Frage 30
-**Können Küken nach dem Schlüpfen sofort laufen?**
-
-**Optionen:**
-- A) Nein, erst nach Wochen
-- B) Ja, schon nach kurzer Zeit
-- C) Nein, erst nach Monaten
-- D) Nur bei bestimmten Arten
-
-**Richtige Antwort:** B) Ja, schon nach kurzer Zeit
-
-**Erklärung:** Küken sind Nestflüchter und können schon nach kurzer Zeit hinter der Henne herlaufen.
-
----
-
-**Ende der Trainingsfragen**

@@ -1,425 +1,93 @@
 # Trainingsfragen: Schlangen - Sinne und Thermoregulation
 
 ## Frage 1
-**Frage:** Gibt es schwarze Kreuzottern?
+**Frage:** Wie nehmen Schlangen Gerüche wahr?
 
 **Optionen:**
-a) Nein, alle Kreuzottern sind braun
-b) Ja, sie kommen in höher gelegenen Gebieten vor
-c) Nur in Zoos
-d) Nein, das ist ein Mythos
+a) Mit der Nase
+b) Mit der gespaltenen Zunge und einem Geruchsorgan am Gaumen
+c) Mit den Augen
+d) Mit den Ohren
 
 **Richtige Antwort:** b
 
-**Erklärung:** Ja, es gibt schwarze Kreuzottern, die in höher gelegenen Gebieten vorkommen.
+**Erklärung:** Schlangen nehmen Gerüche durch Züngeln wahr. Mit der gespaltenen Zunge nehmen sie Duftstoffe aus der Umgebung auf und bringen sie an ein Geruchsorgan am Gaumen. Die zwei Zungenspitzen ermöglichen es, winzige Unterschiede zu erkennen und die Richtung der Duftquelle zu bestimmen.
 
 ---
 
 ## Frage 2
-**Frage:** Wie wird die schwarze Kreuzotter auch genannt?
+**Richtig oder Falsch:** Schlangen sehen und hören sehr gut.
 
-**Optionen:**
-a) Bergotter
-b) Höllenotter
-c) Schattenotter
-d) Nachtotter
+**Richtige Antwort:** Falsch
 
-**Richtige Antwort:** b
-
-**Erklärung:** Die schwarze Kreuzotter wird auch "Höllenotter" genannt.
+**Erklärung:** Schlangen hören und sehen sehr schlecht. Sie haben aber andere Möglichkeiten, Informationen über ihre Umwelt zu bekommen - vor allem ihren ausgezeichneten Geruchssinn mit der gespaltenen Zunge.
 
 ---
 
 ## Frage 3
-**Frage:** Warum ist die schwarze Farbe im Hochgebirge für Schlangen vorteilhaft?
+**Frage:** Was bedeutet es, dass Schlangen wechselwarm sind?
 
 **Optionen:**
-a) Bessere Tarnung
-b) Schnellere Aufwärmung bei Sonnenschein
-c) Schutz vor UV-Strahlung
-d) Abschreckung von Feinden
+a) Sie können ihre Farbe wechseln
+b) Ihre Körpertemperatur ändert sich mit der Umgebungstemperatur
+c) Sie werden im Winter warm
+d) Sie können zwischen warm und kalt wählen
 
 **Richtige Antwort:** b
 
-**Erklärung:** Schwarze Schlangen können sich bei Sonnenschein schneller aufwärmen und dann besser bewegen oder vor Feinden fliehen.
+**Erklärung:** Wechselwarm bedeutet, dass die Körpertemperatur der Schlange sich der Umgebungstemperatur anpasst. Wenn es kalt wird, kühlt ihr Körper ab, sie erstarrt und muss auf warmes Wetter warten, um sich wieder bewegen zu können.
 
 ---
 
 ## Frage 4
-**Richtig oder Falsch:** Schlangen hören und sehen sehr gut.
+**Frage:** Bei welcher Körpertemperatur fühlen sich Schlangen am wohlsten?
 
-**Richtige Antwort:** Falsch
+**Optionen:**
+a) 5 bis 10 °C
+b) 10 bis 15 °C
+c) 20 bis 30 °C
+d) 35 bis 40 °C
 
-**Erklärung:** Schlangen hören und sehen sehr schlecht. Sie haben aber andere Sinne, die sehr gut entwickelt sind.
+**Richtige Antwort:** c
+
+**Erklärung:** Schlangen fühlen sich meist bei einer Körpertemperatur von 20 bis 30 °C am wohlsten. Bei großer Hitze ziehen sie sich in kühlere Verstecke zurück, bei Kälte suchen sie Sonnenplätze auf.
 
 ---
 
 ## Frage 5
-**Frage:** Welchen Sinn nutzen Schlangen hauptsächlich bei der Jagd?
+**Richtig oder Falsch:** Die schwarze Kreuzotter kann sich schneller aufwärmen als andere Farb varianten.
 
-**Optionen:**
-a) Das Sehen
-b) Das Hören
-c) Das Riechen
-d) Den Tastsinn
+**Richtige Antwort:** Richtig
 
-**Richtige Antwort:** c
-
-**Erklärung:** Schlangen nutzen hauptsächlich ihren Geruchssinn, um bei der Jagd zu erkennen, in welcher Richtung sich die Beute versteckt.
+**Erklärung:** Schwarze Schlangen können sich bei Sonnenschein schneller aufwärmen als heller gefärbte. Im Hochgebirge, wo die schwarze Kreuzotter (auch "Höllenotter" genannt) vorkommt, ist die schwarze Farbe daher nützlicher, da sie sich schneller auf Betriebstemperatur bringen und besser vor Feinden fliehen können.
 
 ---
 
 ## Frage 6
-**Frage:** Wo liegt das Geruchsorgan der Schlange?
+**Frage:** Wozu dient die gespaltene Zunge der Schlange?
 
 **Optionen:**
-a) In der Nase
-b) Am Gaumen
-c) In den Augen
-d) An der Zungenspitze
+a) Nur zur Abschreckung
+b) Zum Stechen
+c) Zum Aufnehmen von Duftstoffen und zur Richtungsbestimmung
+d) Zum Graben
 
-**Richtige Antwort:** b
+**Richtige Antwort:** c
 
-**Erklärung:** Das Geruchsorgan der Schlange liegt am Gaumen.
+**Erklärung:** Die gespaltene Zunge nimmt Duftstoffe aus der Umwelt auf. Durch die zwei Spitzen kann die Schlange winzige Unterschiede zwischen den Duftstoffen auf beiden Seiten erkennen und so bestimmen, auf welcher Seite es stärker nach Beute riecht.
 
 ---
 
 ## Frage 7
-**Frage:** Wie ist die Zunge der Schlange geformt?
+**Offene Frage:** Erkläre, was speziell an der Temperaturregulation von Schlangen ist und welche Vor- und Nachteile dies hat.
 
-**Optionen:**
-a) Rund
-b) Flach
-c) Gespalten
-d) Gerollt
-
-**Richtige Antwort:** c
-
-**Erklärung:** Die Schlange hat eine gespaltene Zunge, die ihr hilft, Duftstoffe aufzunehmen.
+**Musterantwort:** Schlangen sind wechselwarm, das heißt ihre Körpertemperatur passt sich der Umgebungstemperatur an und sie können sie nicht selbst regulieren wie Säugetiere. Wenn es kalt wird, kühlt ihr Körper sehr schnell ab, sie erstarren und müssen auf warmes Wetter warten. Sie fühlen sich bei 20-30 °C Körpertemperatur am wohlsten. Um diese Temperatur zu erreichen, suchen sie aktiv Sonnenplätze auf. Bei großer Hitze ziehen sie sich in kühlere Verstecke zurück. Der Vorteil ist, dass sie weniger Energie für die Wärmeproduktion brauchen und wochenlang ohne Nahrung auskommen können. Der Nachteil ist, dass sie nur aktiv sein können, wenn die Umgebung warm genug ist. Die schwarze Färbung mancher Kreuzottern im Hochgebirge ist eine Anpassung, da schwarze Tiere sich schneller aufwärmen können.
 
 ---
 
 ## Frage 8
-**Frage:** Wozu nutzt die Schlange ihre gespaltene Zunge?
+**Offene Frage:** Beschreibe, wie Schlangen mit ihrer gespaltenen Zunge jagen und warum dies bei der Beutejagd so effektiv ist.
 
-**Optionen:**
-a) Zum Beißen
-b) Zum "Schmecken" der Duftstoffe und Bringen an den Gaumen
-c) Zum Atmen
-d) Zur Verteidigung
-
-**Richtige Antwort:** b
-
-**Erklärung:** Mit der gespaltenen Zunge "schmeckt" die Schlange die Duftstoffe und bringt sie an den Gaumen.
+**Musterantwort:** Schlangen haben ein hochentwickeltes Geruchssystem, das auf der gespaltenen Zunge basiert. Beim Züngeln nimmt die Schlange Duftstoffe aus der Umgebung auf. Das Geruchsorgan liegt am Gaumen und verarbeitet diese Duftstoffe. Das Besondere ist die gespaltene Form der Zunge: Durch die zwei Zungenspitzen kann die Schlange winzige Unterschiede der Duftstoffe auf beiden Seiten wahrnehmen. So kann sie genau bestimmen, auf welcher Seite es stärker nach Beute riecht und in welche Richtung sie sich bewegen muss. Dies ist besonders wichtig, da Schlangen sehr schlecht sehen und hören. Bei der Jagd können Giftschlangen so zum Beispiel eine Maus beißen, warten bis sie stirbt, und sie dann durch Verfolgen der Duftspur wiederfinden. Diese Anpassung macht Schlangen zu effizienten Jägern trotz ihrer eingeschränkten anderen Sinne.
 
 ---
-
-## Frage 9
-**Frage:** Was kann die Schlange durch die gespaltene Zunge erkennen?
-
-**Optionen:**
-a) Die Temperatur
-b) Die Farbe der Beute
-c) Auf welcher Seite es stärker nach Beute riecht
-d) Die Größe der Beute
-
-**Richtige Antwort:** c
-
-**Erklärung:** Durch winzige Unterschiede der Duftstoffe auf beiden Zungenspitzen weiß die Schlange, auf welcher Seite es stärker nach Beute riecht.
-
----
-
-## Frage 10
-**Richtig oder Falsch:** Schlangen sind wechselwarm.
-
-**Richtige Antwort:** Richtig
-
-**Erklärung:** Schlangen sind wechselwarm, das bedeutet ihre Körpertemperatur ändert sich mit der Umgebungstemperatur.
-
----
-
-## Frage 11
-**Frage:** Was bedeutet "wechselwarm"?
-
-**Optionen:**
-a) Die Körpertemperatur bleibt immer gleich
-b) Die Körpertemperatur ändert sich mit der Umgebungstemperatur
-c) Die Körpertemperatur wechselt zwischen Tag und Nacht
-d) Die Schlange kann ihre Temperatur selbst regulieren
-
-**Richtige Antwort:** b
-
-**Erklärung:** Wechselwarm bedeutet, dass die Körpertemperatur sich mit der Umgebungstemperatur ändert.
-
----
-
-## Frage 12
-**Frage:** Was passiert, wenn es kalt wird?
-
-**Optionen:**
-a) Die Schlange produziert mehr Wärme
-b) Die Schlange kühlt ab und erstarrt
-c) Die Schlange beginnt zu rennen
-d) Nichts, die Temperatur bleibt konstant
-
-**Richtige Antwort:** b
-
-**Erklärung:** Wenn es kalt wird, kühlt der Körper der Schlange sehr schnell ab und sie erstarrt.
-
----
-
-## Frage 13
-**Frage:** Worauf muss eine erkaltete Schlange warten?
-
-**Optionen:**
-a) Auf Nahrung
-b) Auf Regen
-c) Auf warmes Wetter
-d) Auf die Nacht
-
-**Richtige Antwort:** c
-
-**Erklärung:** Eine erkaltete Schlange muss auf warmes Wetter warten, damit sie sich wieder bewegen kann.
-
----
-
-## Frage 14
-**Frage:** Bei welcher Körpertemperatur fühlen sich Schlangen am wohlsten?
-
-**Optionen:**
-a) 0 bis 10 °C
-b) 10 bis 20 °C
-c) 20 bis 30 °C
-d) 30 bis 40 °C
-
-**Richtige Antwort:** c
-
-**Erklärung:** Schlangen fühlen sich meist bei einer Körpertemperatur von 20 bis 30 °C am wohlsten.
-
----
-
-## Frage 15
-**Frage:** Warum sieht man Schlangen bei großer Hitze nur selten?
-
-**Optionen:**
-a) Sie schlafen dann
-b) Sie sterben bei Hitze
-c) Sie ziehen sich in kühlere Verstecke zurück
-d) Sie werden unsichtbar
-
-**Richtige Antwort:** c
-
-**Erklärung:** Bei großer Hitze ziehen sich Schlangen in kühlere Verstecke zurück.
-
----
-
-## Frage 16
-**Richtig oder Falsch:** Schlangen können ihre Körpertemperatur selbst regulieren wie Säugetiere.
-
-**Richtige Antwort:** Falsch
-
-**Erklärung:** Schlangen können ihre Körpertemperatur nicht selbst regulieren. Sie sind auf die Umgebungstemperatur angewiesen und müssen ihr Verhalten anpassen.
-
----
-
-## Frage 17
-**Frage:** Wie regulieren Schlangen ihre Körpertemperatur?
-
-**Optionen:**
-a) Durch Schwitzen
-b) Durch Zittern
-c) Durch Verhaltensänderung (Sonnen oder Verstecken)
-d) Durch schnelles Atmen
-
-**Richtige Antwort:** c
-
-**Erklärung:** Schlangen regulieren ihre Temperatur durch Verhalten - sie suchen Sonnenplätze auf oder ziehen sich in kühlere Verstecke zurück.
-
----
-
-## Frage 18
-**Frage:** Was machen Schlangen, wenn sie sich aufwärmen wollen?
-
-**Optionen:**
-a) Sie laufen schnell
-b) Sie suchen Sonnenplätze auf
-c) Sie graben sich ein
-d) Sie fressen mehr
-
-**Richtige Antwort:** b
-
-**Erklärung:** Schlangen suchen aktiv Sonnenplätze auf, um sich aufzuwärmen.
-
----
-
-## Frage 19
-**Frage:** Welchen Vorteil hat die schwarze Färbung im Hochgebirge?
-
-**Optionen:**
-a) Bessere Tarnung vor Feinden
-b) Schutz vor Kälte
-c) Bessere Wärmeaufnahme bei Sonnenschein
-d) Schutz vor UV-Strahlung
-
-**Richtige Antwort:** c
-
-**Erklärung:** Schwarze Färbung ermöglicht eine bessere und schnellere Wärmeaufnahme bei Sonnenschein.
-
----
-
-## Frage 20
-**Richtig oder Falsch:** Die gespaltene Zunge hilft der Schlange, die Richtung der Beute präzise zu orten.
-
-**Richtige Antwort:** Richtig
-
-**Erklärung:** Durch die gespaltene Zunge kann die Schlange Unterschiede in den Duftstoffen auf beiden Seiten wahrnehmen und so die Richtung bestimmen.
-
----
-
-## Frage 21
-**Frage:** Was wird durch das "Züngeln" aufgenommen?
-
-**Optionen:**
-a) Licht
-b) Schallwellen
-c) Duftstoffe
-d) Wärme
-
-**Richtige Antwort:** c
-
-**Erklärung:** Beim Züngeln werden Duftstoffe aus der Umgebung aufgenommen.
-
----
-
-## Frage 22
-**Frage:** Wie transportiert die Schlange die Duftstoffe zum Geruchsorgan?
-
-**Optionen:**
-a) Durch die Nase
-b) Mit der gespaltenen Zunge zum Gaumen
-c) Durch die Haut
-d) Durch die Augen
-
-**Richtige Antwort:** b
-
-**Erklärung:** Die Schlange nimmt Duftstoffe mit ihrer gespaltenen Zunge auf und bringt sie zum Geruchsorgan am Gaumen.
-
----
-
-## Frage 23
-**Richtig oder Falsch:** Schlangen können winzige Unterschiede in Duftstoffen wahrnehmen.
-
-**Richtige Antwort:** Richtig
-
-**Erklärung:** Schlangen können schon winzige Unterschiede der Duftstoffe auf beiden Zungenspitzen bemerken.
-
----
-
-## Frage 24
-**Frage:** Welche beiden Sinne sind bei Schlangen schlecht entwickelt?
-
-**Optionen:**
-a) Geruch und Geschmack
-b) Sehen und Hören
-c) Tastsinn und Temperatursinn
-d) Geruch und Tastsinn
-
-**Richtige Antwort:** b
-
-**Erklärung:** Schlangen hören und sehen sehr schlecht, haben dafür aber andere gut entwickelte Sinne.
-
----
-
-## Frage 25
-**Frage:** Was passiert mit einer Schlange, die zu stark abkühlt?
-
-**Optionen:**
-a) Sie wird aktiver
-b) Sie erstarrt und kann sich nicht bewegen
-c) Sie fängt an zu frieren
-d) Sie produziert mehr Wärme
-
-**Richtige Antwort:** b
-
-**Erklärung:** Bei zu starker Abkühlung erstarrt die Schlange und kann sich nicht mehr bewegen.
-
----
-
-## Frage 26
-**Frage:** Warum ist die Fähigkeit, Duftstoffe zu orten, für Schlangen wichtig?
-
-**Optionen:**
-a) Zur Fortpflanzung
-b) Zur Navigation und Jagd
-c) Zur Kommunikation
-d) Zur Verteidigung
-
-**Richtige Antwort:** b
-
-**Erklärung:** Der Geruchssinn ist wichtig für die Jagd - Schlangen können so riechen, in welcher Richtung sich die Beute versteckt.
-
----
-
-## Frage 27
-**Richtig oder Falsch:** Bei 35 °C Außentemperatur sonnen sich Schlangen besonders gern.
-
-**Richtige Antwort:** Falsch
-
-**Erklärung:** Bei großer Hitze ziehen sich Schlangen in kühlere Verstecke zurück, da sie sonst überhitzen würden.
-
----
-
-## Frage 28
-**Frage:** Was ist der optimale Temperaturbereich für Schlangen?
-
-**Optionen:**
-a) 0-10 °C
-b) 10-20 °C
-c) 20-30 °C
-d) 30-40 °C
-
-**Richtige Antwort:** c
-
-**Erklärung:** Der optimale Temperaturbereich liegt bei 20 bis 30 °C Körpertemperatur.
-
----
-
-## Frage 29
-**Frage:** Welche Aussage über wechselwarme Tiere ist korrekt?
-
-**Optionen:**
-a) Sie können ihre Körpertemperatur selbst produzieren
-b) Sie sind auf externe Wärmequellen angewiesen
-c) Sie haben immer die gleiche Temperatur
-d) Sie können nicht überleben
-
-**Richtige Antwort:** b
-
-**Erklärung:** Wechselwarme Tiere sind auf externe Wärmequellen (wie Sonne) angewiesen, um ihre Körpertemperatur zu regulieren.
-
----
-
-## Frage 30
-**Frage:** Was zeigt Abbildung 63.2?
-
-**Optionen:**
-a) Eine Schlange beim Fressen
-b) Eine Schlange, die mit ihrer Zunge Duftstoffe aufnimmt, um eine Maus zu finden
-c) Eine Schlange beim Sonnenbaden
-d) Zwei kämpfende Schlangen
-
-**Richtige Antwort:** b
-
-**Erklärung:** Die Illustration zeigt, wie eine Schlange mit ihrer gespaltenen Zunge die Duftspur einer Maus verfolgt.
-
----
-
-## Zusammenfassung
-
-Diese 30 Fragen decken ab:
-- **Schwarze Kreuzotter**: Vorkommen, Name, evolutionäre Vorteile
-- **Sinnesorgane**: Schlechtes Seh- und Hörvermögen, ausgezeichneter Geruchssinn
-- **Geruchssystem**: Gespaltene Zunge, Geruchsorgan am Gaumen, Funktionsweise
-- **Wechselwarm**: Definition, Auswirkungen, Temperaturoptimum
-- **Thermoregulation**: Verhaltensbasierte Regulation, Sonnen und Verstecken
-- **Anpassungen**: Schwarze Färbung im Hochgebirge, Züngeln zur Beuteortung

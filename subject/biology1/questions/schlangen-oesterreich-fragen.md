@@ -1,453 +1,87 @@
-# Trainingsfragen: Reptilien in Österreich - Schlangen
+# Trainingsfragen: Schlangen in Österreich
 
 ## Frage 1
-**Wie viele heimische Schlangenarten gibt es in Österreich?**
+**Richtig oder Falsch:** Schlangen sind Wirbeltiere.
 
-**Optionen:**
-- A) 3
-- B) 4
-- C) 6
-- D) 8
+**Richtige Antwort:** Richtig
 
-**Richtige Antwort:** C) 6
-
-**Erklärung:** In Österreich gibt es sechs heimische Schlangenarten.
+**Erklärung:** Ja, Schlangen sind Wirbeltiere. Sie haben ein inneres Skelett mit einer deutlichen Wirbelsäule und einen klaren Kopf. Die Besonderheit ist, dass sie Wirbeltiere ohne Gliedmaßen (Beine) sind.
 
 ---
 
 ## Frage 2
-**Stehen die heimischen Schlangen in Österreich unter Naturschutz?**
+**Frage:** Wie viele heimische Schlangenarten gibt es in Österreich?
 
 **Optionen:**
-- A) Nein
-- B) Nur die Giftschlangen
-- C) Ja, alle stehen unter strengem Naturschutz
-- D) Nur die seltenen Arten
+a) Drei
+b) Sechs
+c) Zehn
+d) Zwölf
 
-**Richtige Antwort:** C) Ja, alle stehen unter strengem Naturschutz
+**Richtige Antwort:** b
 
-**Erklärung:** Alle 6 heimischen Schlangenarten stehen unter strengem Naturschutz. Man darf sie nicht töten oder stören.
+**Erklärung:** In Österreich gibt es sechs heimische Schlangenarten. Sie stehen alle unter strengem Naturschutz und dürfen nicht getötet oder gestört werden.
 
 ---
 
 ## Frage 3
-**Wie bewegen sich Schlangen fort?**
+**Richtig oder Falsch:** Man darf heimische Schlangen in Österreich fangen und töten.
 
-**Optionen:**
-- A) Sie hüpfen
-- B) Sie rollen
-- C) Sie schlängeln sich
-- D) Sie kriechen gerade
+**Richtige Antwort:** Falsch
 
-**Richtige Antwort:** C) Sie schlängeln sich
-
-**Erklärung:** Schlangen haben keine Beine und bewegen sich schlängelnd fort.
+**Erklärung:** Alle sechs heimischen Schlangenarten in Österreich stehen unter strengem Naturschutz. Man darf sie nicht töten oder stören. Sie spielen eine wichtige Rolle im ökologischen Gleichgewicht.
 
 ---
 
 ## Frage 4
-**Warum ist die schlängelnde Bewegung für Schlangen vorteilhaft?**
+**Frage:** Wie viele der sechs heimischen Schlangenarten sind Giftschlangen?
 
 **Optionen:**
-- A) Sie können schneller laufen
-- B) Sie passen sich gut an die Fortbewegung zwischen dicht wachsenden Gräsern an
-- C) Sie können besser klettern
-- D) Sie können besser schwimmen
+a) Keine
+b) Zwei (Kreuzotter und Hornotter)
+c) Vier
+d) Alle sechs
 
-**Richtige Antwort:** B) Sie passen sich gut an die Fortbewegung zwischen dicht wachsenden Gräsern an
+**Richtige Antwort:** b
 
-**Erklärung:** Die schlängelnde Bewegung passt sich gut an die Fortbewegung zwischen dicht wachsenden Gräsern und Pflanzen an.
+**Erklärung:** Von den sechs heimischen Schlangenarten sind nur zwei giftig: die Kreuzotter und die Hornotter. Die anderen vier (Ringelnatter, Äskulapnatter, Schlingnatter, Würfelnatter) sind ungiftig.
 
 ---
 
 ## Frage 5
-**Haben Schlangen Gliedmaßen (Beine)?**
+**Frage:** Welche heimische Schlange legt Eier?
 
 **Optionen:**
-- A) Ja, 4 Beine
-- B) Ja, 2 Beine
-- C) Nein, keine Gliedmaßen
-- D) Nur als Jungtiere
+a) Die Kreuzotter
+b) Die Hornotter
+c) Die Ringelnatter
+d) Alle Schlangen legen Eier
 
-**Richtige Antwort:** C) Nein, keine Gliedmaßen
+**Richtige Antwort:** c
 
-**Erklärung:** Schlangen sind Wirbeltiere ohne Gliedmaßen (Beine).
+**Erklärung:** Die Ringelnatter legt Eier - etwa 10 bis 40 Stück in altes Laub oder einen Komposthaufen. Die Kreuzotter hingegen trägt ihre Eier im Körper mit sich.
 
 ---
 
 ## Frage 6
-**Sind Schlangen Wirbeltiere?**
+**Richtig oder Falsch:** Schlangen greifen Menschen aktiv an.
 
-**Optionen:**
-- A) Nein
-- B) Ja
-- C) Nur teilweise
-- D) Nur die großen Arten
+**Richtige Antwort:** Falsch
 
-**Richtige Antwort:** B) Ja
-
-**Erklärung:** Schlangen sind Wirbeltiere. Sie haben ein inneres Skelett mit einer deutlichen Wirbelsäule und einen klaren Kopf.
+**Erklärung:** Schlangen sind sehr scheu und flüchten vor Menschen. Sie greifen nicht an. Bei Begegnungen sollte man nicht zurückweichen - die Schlangen flüchten von selbst.
 
 ---
 
 ## Frage 7
-**Was ist die Besonderheit der Schlange als Wirbeltier?**
+**Offene Frage:** Erkläre, warum Schlangen trotz fehlender Beine als Wirbeltiere gelten und welche Besonderheit sie aufweisen.
 
-**Optionen:**
-- A) Sie hat kein Skelett
-- B) Sie ist ein Wirbeltier ohne Beine
-- C) Sie hat keine Wirbelsäule
-- D) Sie hat 6 Beine
-
-**Richtige Antwort:** B) Sie ist ein Wirbeltier ohne Beine
-
-**Erklärung:** Die Besonderheit der Schlange ist, dass sie ein Wirbeltier ohne Gliedmaßen (Beine) ist.
+**Musterantwort:** Schlangen sind Wirbeltiere, weil sie die wichtigsten Kennzeichen erfüllen: Sie haben ein Skelett, das innerhalb des Körpers liegt, und eine deutlich erkennbare Wirbelsäule. Sie haben auch eine klare Gliederung mit einem Kopf. Die Besonderheit von Schlangen ist, dass sie Wirbeltiere ohne Gliedmaßen sind - sie haben keine Beine. Trotzdem gehören sie zur Klasse der Reptilien und sind eindeutig als Wirbeltiere klassifiziert. Ihre Fortbewegung erfolgt durch Schlängeln, wobei sie ihre Wirbelsäule und Muskeln wellenförmig bewegen.
 
 ---
 
 ## Frage 8
-**Wie viele der 6 heimischen Schlangenarten sind giftig?**
+**Offene Frage:** Beschreibe die Bedeutung des Naturschutzes für heimische Schlangen und erkläre, welche Rolle sie im Ökosystem spielen.
 
-**Optionen:**
-- A) Keine
-- B) 1
-- C) 2
-- D) 4
-
-**Richtige Antwort:** C) 2
-
-**Erklärung:** 2 von 6 heimischen Schlangenarten sind giftig: Kreuzotter und Hornotter.
+**Musterantwort:** Alle sechs heimischen Schlangenarten in Österreich stehen unter strengem Naturschutz, weil sie eine wichtige Rolle im ökologischen Gleichgewicht spielen. Schlangen fressen kleine Tiere wie Mäuse, Frösche und andere Kleintiere und helfen so, deren Populationen zu kontrollieren. Sie sind sehr scheu und sieht man nur selten in der freien Natur, da sie vor Menschen flüchten. Obwohl nur zwei der sechs Arten (Kreuzotter und Hornotter) giftig sind, sollte man alle Schlangen schützen und nicht stören. Manche Arten legen Eier (z.B. Ringelnatter), andere tragen lebende Jungen (z.B. Kreuzotter). Der Naturschutz ist wichtig, um diese faszinierenden Tiere und ihre Lebensräume zu erhalten.
 
 ---
-
-## Frage 9
-**Welche Schlangenart legt Eier?**
-
-**Optionen:**
-- A) Kreuzotter
-- B) Hornotter
-- C) Ringelnatter
-- D) Alle Schlangen
-
-**Richtige Antwort:** C) Ringelnatter
-
-**Erklärung:** Die Ringelnatter legt Eier. Die Kreuzotter trägt ihre Eier im Körper mit sich.
-
----
-
-## Frage 10
-**Welche Schlangenart trägt ihre Eier im Körper?**
-
-**Optionen:**
-- A) Ringelnatter
-- B) Kreuzotter
-- C) Äskulapnatter
-- D) Würfelnatter
-
-**Richtige Antwort:** B) Kreuzotter
-
-**Erklärung:** Die Kreuzotter trägt ihre Eier im Körper mit sich, während die Ringelnatter Eier legt.
-
----
-
-## Frage 11
-**Welche heimische Schlangenart ist giftig?**
-
-**Optionen:**
-- A) Ringelnatter
-- B) Kreuzotter
-- C) Äskulapnatter
-- D) Würfelnatter
-
-**Richtige Antwort:** B) Kreuzotter
-
-**Erklärung:** Die Kreuzotter ist eine der zwei giftigen heimischen Schlangenarten in Österreich.
-
----
-
-## Frage 12
-**Welche ist die zweite giftige Schlangenart in Österreich?**
-
-**Optionen:**
-- A) Schlingnatter
-- B) Hornotter
-- C) Ringelnatter
-- D) Äskulapnatter
-
-**Richtige Antwort:** B) Hornotter
-
-**Erklärung:** Die Hornotter ist neben der Kreuzotter die zweite giftige heimische Schlangenart.
-
----
-
-## Frage 13
-**Wie verhalten sich Schlangen, wenn sie Menschen begegnen?**
-
-**Optionen:**
-- A) Sie greifen sofort an
-- B) Sie sind sehr scheu und flüchten
-- C) Sie bleiben bewegungslos
-- D) Sie folgen den Menschen
-
-**Richtige Antwort:** B) Sie sind sehr scheu und flüchten
-
-**Erklärung:** Schlangen sind sehr scheu und flüchten vor Menschen. Sie greifen nicht an.
-
----
-
-## Frage 14
-**Welche Rolle spielen Schlangen im ökologischen Gleichgewicht?**
-
-**Optionen:**
-- A) Keine besondere Rolle
-- B) Sie fressen kleine Tiere wie Mäuse und Frösche
-- C) Sie sind nur Schädlinge
-- D) Sie fressen nur Pflanzen
-
-**Richtige Antwort:** B) Sie fressen kleine Tiere wie Mäuse und Frösche
-
-**Erklärung:** Schlangen fressen kleine Tiere wie Mäuse und Frösche und spielen damit eine wichtige Rolle im ökologischen Gleichgewicht.
-
----
-
-## Frage 15
-**Haben Schlangen ein inneres oder äußeres Skelett?**
-
-**Optionen:**
-- A) Äußeres Skelett
-- B) Inneres Skelett
-- C) Kein Skelett
-- D) Beides
-
-**Richtige Antwort:** B) Inneres Skelett
-
-**Erklärung:** Schlangen haben ein inneres Skelett mit einer Wirbelsäule, was sie zu Wirbeltieren macht.
-
----
-
-## Frage 16
-**Welche Schlangenart hat gelbe oder weiße Mondflecken hinter dem Kopf?**
-
-**Optionen:**
-- A) Kreuzotter
-- B) Hornotter
-- C) Ringelnatter
-- D) Schlingnatter
-
-**Richtige Antwort:** C) Ringelnatter
-
-**Erklärung:** Die Ringelnatter hat charakteristische gelbe oder weiße Mondflecken hinter dem Kopf.
-
----
-
-## Frage 17
-**Welche Schlangenart hat ein Zickzack-Muster auf dem Rücken?**
-
-**Optionen:**
-- A) Ringelnatter
-- B) Kreuzotter
-- C) Äskulapnatter
-- D) Würfelnatter
-
-**Richtige Antwort:** B) Kreuzotter
-
-**Erklärung:** Die Kreuzotter ist durch ihr charakteristisches Zickzack-Muster auf dem Rücken erkennbar.
-
----
-
-## Frage 18
-**Welche Schlangenart hat ein Würfelmuster auf dem Rücken?**
-
-**Optionen:**
-- A) Ringelnatter
-- B) Kreuzotter
-- C) Würfelnatter
-- D) Schlingnatter
-
-**Richtige Antwort:** C) Würfelnatter
-
-**Erklärung:** Die Würfelnatter hat ein charakteristisches Würfelmuster auf dem Rücken.
-
----
-
-## Frage 19
-**Wo lebt die Ringelnatter bevorzugt?**
-
-**Optionen:**
-- A) In Wüsten
-- B) In Feuchtgebieten und Gewässern
-- C) Auf Bergen
-- D) In Wäldern
-
-**Richtige Antwort:** B) In Feuchtgebieten und Gewässern
-
-**Erklärung:** Die Ringelnatter lebt bevorzugt in Feuchtgebieten und in der Nähe von Gewässern.
-
----
-
-## Frage 20
-**Wo lebt die Kreuzotter bevorzugt?**
-
-**Optionen:**
-- A) Nur in Gewässern
-- B) Moorgebiete, Waldränder, Gebirge
-- C) Nur in Städten
-- D) In Wüsten
-
-**Richtige Antwort:** B) Moorgebiete, Waldränder, Gebirge
-
-**Erklärung:** Die Kreuzotter lebt bevorzugt in Moorgebieten, an Waldrändern und im Gebirge.
-
----
-
-## Frage 21
-**Welche Schlangenart bevorzugt Fließgewässer und Flüsse?**
-
-**Optionen:**
-- A) Kreuzotter
-- B) Hornotter
-- C) Würfelnatter
-- D) Schlingnatter
-
-**Richtige Antwort:** C) Würfelnatter
-
-**Erklärung:** Die Würfelnatter lebt bevorzugt an Fließgewässern und Flüssen.
-
----
-
-## Frage 22
-**Wo lebt die Äskulapnatter bevorzugt?**
-
-**Optionen:**
-- A) Warme Gebiete, Weinberge, Steinmauern
-- B) Moorgebiete
-- C) Nur in Gewässern
-- D) Gebirge
-
-**Richtige Antwort:** A) Warme Gebiete, Weinberge, Steinmauern
-
-**Erklärung:** Die Äskulapnatter bevorzugt warme Gebiete wie Weinberge und Steinmauern.
-
----
-
-## Frage 23
-**Ist die Ringelnatter giftig?**
-
-**Optionen:**
-- A) Ja, sehr giftig
-- B) Nein, ungiftig
-- C) Nur leicht giftig
-- D) Nur die Weibchen sind giftig
-
-**Richtige Antwort:** B) Nein, ungiftig
-
-**Erklärung:** Die Ringelnatter ist ungiftig. Nur Kreuzotter und Hornotter sind giftige heimische Schlangen.
-
----
-
-## Frage 24
-**Ist die Äskulapnatter giftig?**
-
-**Optionen:**
-- A) Ja, sehr giftig
-- B) Nein, ungiftig
-- C) Nur leicht giftig
-- D) Nur die Männchen sind giftig
-
-**Richtige Antwort:** B) Nein, ungiftig
-
-**Erklärung:** Die Äskulapnatter ist ungiftig. Sie gehört zu den vier ungiftigen heimischen Schlangenarten.
-
----
-
-## Frage 25
-**Ist die Schlingnatter giftig?**
-
-**Optionen:**
-- A) Ja
-- B) Nein
-- C) Nur teilweise
-- D) Nur im Sommer
-
-**Richtige Antwort:** B) Nein
-
-**Erklärung:** Die Schlingnatter ist ungiftig. Von den 6 heimischen Arten sind nur Kreuzotter und Hornotter giftig.
-
----
-
-## Frage 26
-**Was sollte man tun, wenn man einer Schlange begegnet?**
-
-**Optionen:**
-- A) Sie angreifen
-- B) Sie töten
-- C) Ruhig bleiben, die Schlange flüchtet selbst
-- D) Sie einfangen
-
-**Richtige Antwort:** C) Ruhig bleiben, die Schlange flüchtet selbst
-
-**Erklärung:** Bei Begegnungen sollte man ruhig bleiben. Schlangen sind scheu und flüchten selbst vor Menschen.
-
----
-
-## Frage 27
-**Darf man heimische Schlangen in Österreich töten?**
-
-**Optionen:**
-- A) Ja, alle
-- B) Ja, nur die giftigen
-- C) Nein, sie stehen alle unter Naturschutz
-- D) Nur mit Genehmigung
-
-**Richtige Antwort:** C) Nein, sie stehen alle unter Naturschutz
-
-**Erklärung:** Alle heimischen Schlangen stehen unter strengem Naturschutz. Man darf sie nicht töten oder stören.
-
----
-
-## Frage 28
-**Was fressen Schlangen?**
-
-**Optionen:**
-- A) Nur Pflanzen
-- B) Kleine Tiere wie Mäuse und Frösche
-- C) Nur Insekten
-- D) Nichts, sie sind Parasiten
-
-**Richtige Antwort:** B) Kleine Tiere wie Mäuse und Frösche
-
-**Erklärung:** Schlangen fressen kleine Tiere wie Mäuse und Frösche und sind damit wichtig für das ökologische Gleichgewicht.
-
----
-
-## Frage 29
-**Welche Aussage über Schlangen ist FALSCH?**
-
-**Optionen:**
-- A) Sie sind Wirbeltiere
-- B) Sie haben ein inneres Skelett
-- C) Sie haben 4 Gliedmaßen
-- D) Sie gehören zu den Reptilien
-
-**Richtige Antwort:** C) Sie haben 4 Gliedmaßen
-
-**Erklärung:** Schlangen haben keine Gliedmaßen (Beine). Dies ist ihre Besonderheit als Wirbeltiere.
-
----
-
-## Frage 30
-**Wo lebt die Hornotter bevorzugt?**
-
-**Optionen:**
-- A) In Feuchtgebieten
-- B) Gebirge, alpine Regionen
-- C) An Flüssen
-- D) In Wäldern
-
-**Richtige Antwort:** B) Gebirge, alpine Regionen
-
-**Erklärung:** Die Hornotter lebt bevorzugt im Gebirge und in alpinen Regionen.
-
----
-
-**Ende der Trainingsfragen**
