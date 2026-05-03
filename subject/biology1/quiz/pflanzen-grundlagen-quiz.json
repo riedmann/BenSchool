@@ -1,0 +1,268 @@
+{
+  "id": "quiz-biology1-pflanzen-001",
+  "title": "Pflanzen - Aufbau und Lebensweise",
+  "description": "Quiz zu Pflanzenkörperbau, Fotosynthese, Bestäubung, Befruchtung und Samenverbreitung.",
+  "difficulty": "medium",
+  "category": "biology1",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "standard",
+      "question": "Welche Aufgabe hat die Wurzel einer Pflanze?",
+      "options": [
+        { "text": "Fotosynthese betreiben" },
+        { "text": "Pollen produzieren" },
+        { "text": "Wasser und Mineralstoffe aufnehmen und die Pflanze verankern" },
+        { "text": "Sauerstoff abgeben" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Chlorophyll ist der grüne Farbstoff in den Chloroplasten, der Licht für die Fotosynthese einfängt.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q3",
+      "type": "standard",
+      "question": "Was sind die Ausgangsstoffe (Rohstoffe) für die Fotosynthese?",
+      "options": [
+        { "text": "Zucker und Sauerstoff" },
+        { "text": "Glukose und Kohlenstoffdioxid" },
+        { "text": "Stickstoff und Sauerstoff" },
+        { "text": "Kohlenstoffdioxid und Wasser" }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 30
+    },
+    {
+      "id": "q4",
+      "type": "true-false",
+      "question": "Bei der Fotosynthese wird Sauerstoff verbraucht und Kohlenstoffdioxid produziert.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q5",
+      "type": "standard",
+      "question": "In welchem Pflanzenteil findet hauptsächlich die Fotosynthese statt?",
+      "options": [
+        { "text": "In den Blättern" },
+        { "text": "In der Wurzel" },
+        { "text": "Im Stängel" },
+        { "text": "In den Blüten" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q6",
+      "type": "standard",
+      "question": "Welche Funktion haben die Spaltöffnungen (Stomata) im Blatt?",
+      "options": [
+        { "text": "Sie produzieren Chlorophyll" },
+        { "text": "Sie ermöglichen den Gasaustausch und die Wasserverdunstung" },
+        { "text": "Sie speichern Nährstoffe" },
+        { "text": "Sie sind für die Wurzelaufnahme zuständig" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q7",
+      "type": "true-false",
+      "question": "Der Stängel einer Pflanze transportiert Wasser und Nährstoffe durch spezielle Leitungsbahnen (Gefäßbündel).",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q8",
+      "type": "standard",
+      "question": "Was versteht man unter Bestäubung?",
+      "options": [
+        { "text": "Die Befruchtung der Eizelle durch die Samenzelle" },
+        { "text": "Das Öffnen der Blütenknospe" },
+        { "text": "Die Übertragung von Pollen (Blütenstaub) auf die Narbe einer Blüte" },
+        { "text": "Die Freisetzung von Samen aus der Frucht" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "question": "Blüten, die von Insekten bestäubt werden, sind oft bunt und duften, um Insekten anzulocken.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q10",
+      "type": "standard",
+      "question": "Was passiert nach der Bestäubung?",
+      "options": [
+        { "text": "Die Blüte öffnet sich neu" },
+        { "text": "Die Pflanze beginnt mit der Fotosynthese" },
+        { "text": "Der Pollen fällt ab und die Blüte schließt sich" },
+        { "text": "Ein Pollenschlauch wächst zum Fruchtknoten und die Eizelle wird befruchtet" }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 30
+    },
+    {
+      "id": "q11",
+      "type": "true-false",
+      "question": "Windbestäubte Blüten haben oft auffällige Farben und Düfte, um den Wind anzulocken.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q12",
+      "type": "standard",
+      "question": "Wie verbreitet der Löwenzahn seine Samen?",
+      "options": [
+        { "text": "Durch den Wind mit Fallschirmen" },
+        { "text": "Durch Tiere (werden im Fell transportiert)" },
+        { "text": "Durch Wasser" },
+        { "text": "Durch Selbstexplodieren der Frucht" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 25
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "question": "Wenn Tiere Beeren oder Früchte fressen, können die unverdauten Samen mit dem Kot an anderen Orten ausgeschieden werden.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q14",
+      "type": "standard",
+      "question": "Was unterscheidet Pflanzenzellen von Tierzellen?",
+      "options": [
+        { "text": "Pflanzenzellen haben keinen Zellkern" },
+        { "text": "Pflanzenzellen haben eine Zellwand, Chloroplasten und eine Zentralvakuole" },
+        { "text": "Pflanzenzellen können sich nicht teilen" },
+        { "text": "Pflanzenzellen haben kein Mitochondrium" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q15",
+      "type": "true-false",
+      "question": "Die Zellwand bei Pflanzenzellen besteht aus Zellulose und gibt der Zelle ihre Form und Stabilität.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q16",
+      "type": "standard",
+      "question": "Was produziert die Pflanze bei der Fotosynthese, das für alle Lebewesen lebenswichtig ist?",
+      "options": [
+        { "text": "Kohlenstoffdioxid" },
+        { "text": "Stickstoff" },
+        { "text": "Sauerstoff" },
+        { "text": "Wasser" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q17",
+      "type": "true-false",
+      "question": "Wurzelhaare vergrößern die Aufnahmefläche der Wurzel und helfen, mehr Wasser und Mineralstoffe aufzunehmen.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q18",
+      "type": "standard",
+      "question": "Welche Strategie nutzen Kletten zur Samenverbreitung?",
+      "options": [
+        { "text": "Windverbreitung durch Fallschirme" },
+        { "text": "Wasserverbreitung durch schwimmende Samen" },
+        { "text": "Selbstverbreitung durch Aufplatzen der Früchte" },
+        { "text": "Tierverbreitung durch Haken, die sich im Fell oder an Kleidung festhalten" }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 30
+    },
+    {
+      "id": "q19",
+      "type": "standard",
+      "question": "Welche Pflanzenteile bilden sich nach der erfolgreichen Befruchtung aus?",
+      "options": [
+        { "text": "Neue Blütenblätter" },
+        { "text": "Samen und Frucht (aus dem Fruchtknoten)" },
+        { "text": "Neue Wurzeln" },
+        { "text": "Neue Chloroplasten" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q20",
+      "type": "true-false",
+      "question": "Transpiration bei Pflanzen bedeutet die Aufnahme von Wasser durch die Blätter.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q21",
+      "type": "standard",
+      "question": "Wozu dient die Zentralvakuole in einer Pflanzenzelle?",
+      "options": [
+        { "text": "Sie betreibt die Fotosynthese" },
+        { "text": "Sie speichert Wasser und hält die Zelle durch den Turgordruck prall" },
+        { "text": "Sie produziert Chlorophyll" },
+        { "text": "Sie teilt die Zelle" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q22",
+      "type": "true-false",
+      "question": "Pflanzen sind Produzenten, weil sie mithilfe von Lichtenergie ihre eigene Nahrung herstellen können.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q23",
+      "type": "standard",
+      "question": "Welcher Pflanzenteil nimmt Kohlenstoffdioxid für die Fotosynthese direkt aus der Luft auf?",
+      "options": [
+        { "text": "Die Wurzel" },
+        { "text": "Der Stängel" },
+        { "text": "Das Blatt (durch die Spaltöffnungen)" },
+        { "text": "Die Blüte" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q24",
+      "type": "standard",
+      "question": "Welche Aussage über windbestäubte Pflanzen ist richtig?",
+      "options": [
+        { "text": "Sie produzieren wenig Pollen, der aber sehr klebrig ist" },
+        { "text": "Ihre Blüten sind meist auffällig gefärbt" },
+        { "text": "Sie produzieren viel leichten, trockenen Pollen und ihre Blüten sind unscheinbar" },
+        { "text": "Sie brauchen Bienen zur Bestäubung" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q25",
+      "type": "true-false",
+      "question": "Chloroplasten sind nur in Pflanzenzellen vorhanden und sind für die Fotosynthese zuständig.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    }
+  ]
+}
