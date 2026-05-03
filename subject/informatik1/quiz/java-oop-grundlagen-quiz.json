@@ -1,0 +1,280 @@
+{
+  "id": "quiz-java-oop-grundlagen-001",
+  "title": "Java OOP Grundlagen",
+  "description": "Übungsquiz zu den Grundlagen der objektorientierten Programmierung in Java: Klassen, Objekte, Vererbung, Kapselung, Polymorphismus, Interfaces und abstrakte Klassen.",
+  "difficulty": "medium",
+  "category": "informatik1",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "standard",
+      "question": "Was ist eine Klasse in Java?",
+      "options": [
+        { "text": "Ein fertiges Objekt mit Daten" },
+        { "text": "Ein Bauplan/Vorlage für Objekte" },
+        { "text": "Eine Methode ohne Rückgabewert" },
+        { "text": "Ein Zugriffsmodifizierer" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Mit dem Schlüsselwort `new` wird in Java ein neues Objekt (eine Instanz) einer Klasse erstellt.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q3",
+      "type": "standard",
+      "question": "Betrachte diesen Java-Code:\n\n```java\npublic class Auto {\n    String marke;\n\n    public Auto(String marke) {\n        this.marke = marke;\n    }\n}\n```\n\nWofür steht `this.marke`?",
+      "options": [
+        { "text": "Für die Klasse `Auto`" },
+        { "text": "Für die Instanzvariable `marke` des aktuellen Objekts" },
+        { "text": "Für den Parameter `marke` der Methode" },
+        { "text": "Für eine statische Variable" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q4",
+      "type": "standard",
+      "question": "Welchen Zugriffsmodifizierer verwendet man in Java, wenn ein Attribut nur innerhalb der eigenen Klasse zugänglich sein soll?",
+      "options": [
+        { "text": "public" },
+        { "text": "static" },
+        { "text": "protected" },
+        { "text": "private" }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 25
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "Kapselung (Encapsulation) bedeutet, dass die internen Daten eines Objekts nach außen hin verborgen werden und nur über Methoden (Getter/Setter) zugänglich sind.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q6",
+      "type": "standard",
+      "question": "Betrachte diesen Java-Code:\n\n```java\npublic class Konto {\n    private double kontostand;\n\n    public double getKontostand() {\n        return kontostand;\n    }\n\n    public void einzahlen(double betrag) {\n        if (betrag > 0) {\n            kontostand += betrag;\n        }\n    }\n}\n```\n\nWelches OOP-Prinzip zeigt dieser Code?",
+      "options": [
+        { "text": "Vererbung" },
+        { "text": "Polymorphismus" },
+        { "text": "Kapselung" },
+        { "text": "Abstraktion durch Interface" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q7",
+      "type": "standard",
+      "question": "Welches Schlüsselwort verwendet man in Java, um eine Klasse von einer anderen Klasse erben zu lassen?",
+      "options": [
+        { "text": "implements" },
+        { "text": "extends" },
+        { "text": "inherits" },
+        { "text": "uses" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q8",
+      "type": "true-false",
+      "question": "In Java kann eine Klasse von mehreren Klassen gleichzeitig erben (Mehrfachvererbung bei Klassen).",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q9",
+      "type": "standard",
+      "question": "Betrachte diesen Java-Code:\n\n```java\npublic class Tier {\n    public String sprachAusgabe() {\n        return \"Das Tier macht ein Geräusch.\";\n    }\n}\n\npublic class Katze extends Tier {\n    @Override\n    public String sprachAusgabe() {\n        return \"Miau!\";\n    }\n}\n\nTier t = new Katze();\nSystem.out.println(t.sprachAusgabe());\n```\n\nWas gibt dieser Code aus?",
+      "options": [
+        { "text": "\"Das Tier macht ein Geräusch.\"" },
+        { "text": "Einen Kompilierfehler" },
+        { "text": "\"Miau!\" — die überschriebene Methode von `Katze` wird aufgerufen" },
+        { "text": "null" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 35
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Polymorphismus in Java ermöglicht es, dass eine Variable vom Typ der Oberklasse ein Objekt einer Unterklasse enthält.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q11",
+      "type": "standard",
+      "question": "Was ist eine abstrakte Klasse in Java?",
+      "options": [
+        { "text": "Eine Klasse, von der direkt Objekte erstellt werden können" },
+        { "text": "Eine Klasse ohne Attribute" },
+        { "text": "Eine Klasse, die nicht direkt instanziiert werden kann und abstrakte Methoden enthalten darf" },
+        { "text": "Eine Klasse ohne Methoden" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q12",
+      "type": "standard",
+      "question": "Welches Schlüsselwort wird in Java verwendet, um ein Interface zu implementieren?",
+      "options": [
+        { "text": "extends" },
+        { "text": "implements" },
+        { "text": "abstract" },
+        { "text": "override" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "question": "Eine Klasse in Java kann mehrere Interfaces gleichzeitig implementieren.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q14",
+      "type": "standard",
+      "question": "Betrachte diesen Java-Code:\n\n```java\npublic abstract class Form {\n    public abstract double flaeche();\n\n    public void beschreiben() {\n        System.out.println(\"Fläche: \" + flaeche());\n    }\n}\n\nnew Form();\n```\n\nWas passiert, wenn man versucht, `new Form()` auszuführen?",
+      "options": [
+        { "text": "Ein leeres Form-Objekt wird erstellt" },
+        { "text": "Ein Kompilierfehler entsteht, weil abstrakte Klassen nicht instanziiert werden können" },
+        { "text": "Ein Laufzeitfehler entsteht" },
+        { "text": "Die Methode `beschreiben()` wird automatisch aufgerufen" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q15",
+      "type": "standard",
+      "question": "Was ist der Hauptunterschied zwischen `extends` und `implements`?",
+      "options": [
+        { "text": "Beide bedeuten dasselbe in Java" },
+        { "text": "`extends` erbt von einer Klasse, `implements` setzt ein Interface um" },
+        { "text": "`extends` ist für Interfaces, `implements` für Klassen" },
+        { "text": "`extends` ist veraltet und sollte nicht mehr verwendet werden" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q16",
+      "type": "true-false",
+      "question": "Abstrakte Methoden in Java haben keinen Methodenrumpf (keine geschweifte Klammern mit Code).",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q17",
+      "type": "standard",
+      "question": "Betrachte diesen Java-Code:\n\n```java\npublic interface Schwimmbar {\n    void schwimmen();\n}\n\npublic interface Fliegbar {\n    void fliegen();\n}\n\npublic class Ente implements Schwimmbar, Fliegbar {\n    @Override\n    public void schwimmen() {\n        System.out.println(\"Die Ente schwimmt.\");\n    }\n\n    @Override\n    public void fliegen() {\n        System.out.println(\"Die Ente fliegt.\");\n    }\n}\n```\n\nWas zeigt dieser Code?",
+      "options": [
+        { "text": "Eine Klasse kann mehrere Interfaces implementieren" },
+        { "text": "Eine Klasse kann mehrere Klassen erweitern" },
+        { "text": "Interfaces können Implementierungen enthalten" },
+        { "text": "Eine Klasse kann nur ein Interface implementieren" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 35
+    },
+    {
+      "id": "q18",
+      "type": "standard",
+      "question": "Worauf verweist `super` in einer Unterklasse?",
+      "options": [
+        { "text": "Auf das aktuelle Objekt" },
+        { "text": "Auf die Oberklasse oder ihren Konstruktor" },
+        { "text": "Auf den Zugriffsmodifizierer" },
+        { "text": "Auf eine statische Methode der Klasse" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 25
+    },
+    {
+      "id": "q19",
+      "type": "true-false",
+      "question": "Eine abstrakte Klasse kann sowohl abstrakte als auch normale (konkrete) Methoden enthalten.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q20",
+      "type": "standard",
+      "question": "Betrachte diesen Java-Code:\n\n```java\npublic class Tier {\n    String name;\n\n    public void atmen() {\n        System.out.println(\"Das Tier atmet.\");\n    }\n}\n\npublic class Hund extends Tier {\n    public void bellen() {\n        System.out.println(\"Wau!\");\n    }\n}\n\nHund hund = new Hund();\nhund.name = \"Rex\";\nhund.atmen();\n```\n\nWarum kann `hund.atmen()` aufgerufen werden?",
+      "options": [
+        { "text": "Weil `Hund` die Methode `atmen()` selbst definiert" },
+        { "text": "Weil `Hund` von `Tier` erbt und alle Methoden von `Tier` übernimmt" },
+        { "text": "Weil alle Java-Objekte automatisch `atmen()` haben" },
+        { "text": "Weil `atmen()` ein Interface implementiert" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q21",
+      "type": "true-false",
+      "question": "`protected` in Java bedeutet, dass ein Attribut oder eine Methode nur innerhalb der eigenen Klasse und in allen Unterklassen zugänglich ist.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q22",
+      "type": "standard",
+      "question": "Was ist eine Instanzvariable?",
+      "options": [
+        { "text": "Eine Variable, die zu einem konkreten Objekt (einer Instanz) einer Klasse gehört" },
+        { "text": "Eine Variable, die für alle Objekte einer Klasse gleich ist" },
+        { "text": "Eine Variable, die innerhalb einer Methode deklariert wird" },
+        { "text": "Eine Variable, die den Rückgabetyp einer Methode angibt" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q23",
+      "type": "standard",
+      "question": "Betrachte dieses UML-Diagramm:\n\n```plantuml\n@startuml\nclass Tier {\n  +name: String\n  +atmen(): void\n}\nclass Hund {\n  +bellen(): void\n}\nTier <|-- Hund\n@enduml\n```\n\nWas bedeutet der Pfeil `Tier <|-- Hund`?",
+      "options": [
+        { "text": "`Hund` und `Tier` sind unabhängig voneinander" },
+        { "text": "`Tier` erbt von `Hund`" },
+        { "text": "`Hund` erbt (extends) von `Tier`" },
+        { "text": "`Hund` implementiert das Interface `Tier`" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q24",
+      "type": "true-false",
+      "question": "Ein Getter ist eine Methode, die den Wert eines (oft privaten) Attributs zurückgibt.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q25",
+      "type": "standard",
+      "question": "Welches OOP-Konzept wird gezeigt, wenn mehrere Klassen dieselbe Methode unterschiedlich implementieren?",
+      "options": [
+        { "text": "Kapselung" },
+        { "text": "Vererbung ohne Überschreiben" },
+        { "text": "Polymorphismus" },
+        { "text": "Abstraktion durch private Attribute" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    }
+  ]
+}
