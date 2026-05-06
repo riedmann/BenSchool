@@ -1,0 +1,143 @@
+{
+  "id": "gleichungen-grundlagen-quiz",
+  "title": "Gleichungen - Grundlagen",
+  "description": "Teste dein Wissen über lineare Gleichungen, Äquivalenzumformungen und Lösungsverfahren.",
+  "difficulty": "medium",
+  "category": "Mathematik",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "standard",
+      "question": "Was ist eine Gleichung?",
+      "options": [
+        { "text": "Eine mathematische Aussage mit einem Größer-als-Zeichen" },
+        {
+          "text": "Eine mathematische Aussage, die besagt, dass zwei Terme gleich sind"
+        },
+        { "text": "Eine Formel zur Berechnung von Flächen" },
+        { "text": "Eine Rechnung mit nur einer Zahl" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q2",
+      "type": "standard",
+      "question": "Welche Operation ist KEINE erlaubte Äquivalenzumformung?",
+      "options": [
+        { "text": "Addition derselben Zahl auf beiden Seiten" },
+        { "text": "Subtraktion derselben Zahl auf beiden Seiten" },
+        { "text": "Division durch Null auf beiden Seiten" },
+        { "text": "Multiplikation mit derselben Zahl (≠ 0) auf beiden Seiten" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q3",
+      "type": "standard",
+      "question": "Löse die Gleichung: 2x + 6 = 14. Was ist x?",
+      "options": [
+        { "text": "x = 2" },
+        { "text": "x = 8" },
+        { "text": "x = 6" },
+        { "text": "x = 4" }
+      ],
+      "correctAnswers": [3],
+      "timeLimit": 45
+    },
+    {
+      "id": "q4",
+      "type": "standard",
+      "question": "Bei der Gleichung 5x + 3 = 2x + 12, was ist der erste Schritt?",
+      "options": [
+        { "text": "Alle x-Terme auf eine Seite bringen" },
+        { "text": "Durch 5 dividieren" },
+        { "text": "3 von beiden Seiten subtrahieren" },
+        { "text": "Mit 2 multiplizieren" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q5",
+      "type": "standard",
+      "question": "Löse: x/3 = 6. Was ist x?",
+      "options": [
+        { "text": "x = 2" },
+        { "text": "x = 9" },
+        { "text": "x = 18" },
+        { "text": "x = 12" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q6",
+      "type": "standard",
+      "question": "Was bedeutet es, wenn man bei der Lösung einer Gleichung auf 0 = 0 kommt?",
+      "options": [
+        { "text": "Die Gleichung hat keine Lösung" },
+        { "text": "Man hat einen Fehler gemacht" },
+        { "text": "Die Gleichung hat unendlich viele Lösungen" },
+        { "text": "Die Gleichung hat genau eine Lösung" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q7",
+      "type": "standard",
+      "question": "Löse: 3(x + 2) = 15. Was ist x?",
+      "options": [
+        { "text": "x = 5" },
+        { "text": "x = 1" },
+        { "text": "x = 3" },
+        { "text": "x = 7" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 45
+    },
+    {
+      "id": "q8",
+      "type": "standard",
+      "question": "Was ist der Hauptnenner von x/2 + x/3?",
+      "options": [
+        { "text": "2" },
+        { "text": "6" },
+        { "text": "3" },
+        { "text": "5" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "question": "Bei Äquivalenzumformungen ändert sich die Lösungsmenge nicht.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Die Gleichung x + 3 = x + 5 hat die Lösung x = 2.",
+      "correctAnswer": false,
+      "timeLimit": 25
+    },
+    {
+      "id": "q11",
+      "type": "true-false",
+      "question": "Man kann eine Gleichung mit einer negativen Zahl multiplizieren.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "question": "Die Probe ist optional und muss nicht gemacht werden.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    }
+  ]
+}

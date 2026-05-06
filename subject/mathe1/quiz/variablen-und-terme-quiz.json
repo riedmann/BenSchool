@@ -1,0 +1,150 @@
+{
+  "id": "variablen-und-terme-001",
+  "title": "Variablen und Terme",
+  "description": "Teste dein Wissen über mathematische Terme, Variablen und deren Anwendung in praktischen Aufgaben.",
+  "difficulty": "medium",
+  "category": "Mathematik - Algebra",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "standard",
+      "question": "Was ist ein Term?",
+      "options": [
+        { "text": "Nur eine einzelne Zahl" },
+        {
+          "text": "Ein sinnvoller mathematischer Ausdruck aus Rechenzeichen, Klammern, Zahlen und Buchstaben"
+        },
+        { "text": "Nur ein Buchstabe" },
+        { "text": "Eine Tabelle mit Zahlen" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q2",
+      "type": "standard",
+      "question": "Was ist eine Variable?",
+      "options": [
+        { "text": "Ein Buchstabe als Platzhalter für unbekannte Zahlen" },
+        { "text": "Eine feste Zahl" },
+        { "text": "Ein Rechenzeichen" },
+        { "text": "Eine Tabelle" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q3",
+      "type": "standard",
+      "question": "Susi verschenkt Säckchen mit je 3 Murmeln. Welcher Term beschreibt die Anzahl der Murmeln für x Säckchen?",
+      "options": [
+        { "text": "x + 3" },
+        { "text": "x - 3" },
+        { "text": "3 · x" },
+        { "text": "3 + x" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q4",
+      "type": "standard",
+      "question": "Wenn Susis Mutter x Jahre alt ist und 6 Jahre älter als der Vater, wie alt ist der Vater?",
+      "options": [
+        { "text": "x + 6" },
+        { "text": "x - 6" },
+        { "text": "6 · x" },
+        { "text": "6 - x" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q5",
+      "type": "standard",
+      "question": "Welcher der folgenden Ausdrücke ist KEIN Term?",
+      "options": [
+        { "text": "+ · 5" },
+        { "text": "42 - 6" },
+        { "text": "x + 7" },
+        { "text": "3 · x" }
+      ],
+      "correctAnswers": [0],
+      "timeLimit": 30
+    },
+    {
+      "id": "q6",
+      "type": "standard",
+      "question": "Toms Oma ist 3 Jahre jünger als sein Opa. Wenn die Oma x Jahre alt ist, wie alt ist der Opa?",
+      "options": [
+        { "text": "x - 3" },
+        { "text": "3 - x" },
+        { "text": "x + 3" },
+        { "text": "3 · x" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 30
+    },
+    {
+      "id": "q7",
+      "type": "standard",
+      "question": "Johanna spart jede Woche 12 Euro. Wie viel hat sie nach x Wochen gespart?",
+      "options": [
+        { "text": "x + 12" },
+        { "text": "12 · x" },
+        { "text": "x - 12" },
+        { "text": "x ÷ 12" }
+      ],
+      "correctAnswers": [1],
+      "timeLimit": 30
+    },
+    {
+      "id": "q8",
+      "type": "standard",
+      "question": "Was bedeutet der Ausdruck 5 · x in Worten?",
+      "options": [
+        { "text": "5 plus x" },
+        { "text": "x minus 5" },
+        { "text": "5 mal x" },
+        { "text": "x geteilt durch 5" }
+      ],
+      "correctAnswers": [2],
+      "timeLimit": 25
+    },
+    {
+      "id": "q9",
+      "type": "true-false",
+      "question": "Variablen sind immer der Buchstabe x.",
+      "correctAnswer": false,
+      "timeLimit": 20
+    },
+    {
+      "id": "q10",
+      "type": "true-false",
+      "question": "Der Ausdruck x + 6 ist ein Term.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q11",
+      "type": "true-false",
+      "question": "Wenn man 3 Säckchen mit je 3 Murmeln hat, braucht man die Rechnung 3 + 3.",
+      "correctAnswer": false,
+      "timeLimit": 25
+    },
+    {
+      "id": "q12",
+      "type": "true-false",
+      "question": "Tabellen können helfen, Muster zu erkennen und Terme aufzustellen.",
+      "correctAnswer": true,
+      "timeLimit": 20
+    },
+    {
+      "id": "q13",
+      "type": "true-false",
+      "question": "Wenn Person A 5 Jahre älter als Person B ist und Person B x Jahre alt ist, dann ist Person A x - 5 Jahre alt.",
+      "correctAnswer": false,
+      "timeLimit": 30
+    }
+  ]
+}
